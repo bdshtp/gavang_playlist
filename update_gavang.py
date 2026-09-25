@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
 OUTPUT_FILE = "gavang.m3u"
 LOGO_DIR = "logos/gavang"
-BASE_URL = "https://bdshtp1.github.io/gavang_playlist"
+BASE_URL = "https://bdshtp.github.io/gavang_playlist"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
