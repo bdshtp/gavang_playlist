@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8zl4rz8.png" group-title="Gavang",26/09 07:00 | Barbados vs Saint Lucia
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8zx4rz8.png" group-title="Gavang",26/09 07:00 | Bonaire vs Saint Kitts and Nevis
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6g3djq86.png" group-title="Gavang",26/09 07:00 | Jamaica vs Guatemala
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5lo8gql0.png" group-title="Gavang",26/09 08:00 | Honduras vs Suriname
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl8ogyq1z.png" group-title="Gavang",26/09 10:00 | El Salvador vs Martinique
@@ -33,3 +27,5 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89y6vqwz.png" group-title="Gavang",26/09 23:00 | Bulgaria vs Luxembourg
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2znlzrep.png" group-title="Gavang",27/09 03:30 | USA vs Peru
+https://live2.zktsva.app/live/307240.m3u8
