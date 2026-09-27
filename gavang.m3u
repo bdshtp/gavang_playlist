@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3xv8q1z.png" group-title="Gavang",27/09 10:05 | Santos Laguna vs Pachuca
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehg7x4lr51.png" group-title="Gavang",27/09 14:00 | Hong Kong vs Laos
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6xey6q86.png" group-title="Gavang",27/09 17:00 | Gangwon FC vs Incheon United Club
@@ -27,3 +25,35 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz7opmoe.png" group-title="Gavang",27/09 23:30 | Eibar vs UD Las Palmas
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgnwnpq82.png" group-title="Gavang",28/09 01:00 | Bahrain vs United Arab Emirates
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9y07moe.png" group-title="Gavang",28/09 01:45 | Germany vs Greece
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6ypllq86.png" group-title="Gavang",28/09 01:45 | Norway vs Portugal
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyd4jvryk.png" group-title="Gavang",28/09 08:00 | Trinidad and Tobago vs Dominican Republic
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1159r6o.png" group-title="Gavang",28/09 17:25 | Japan vs Venezuela
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5l7g4ql0.png" group-title="Gavang",28/09 19:30 | Malaysia vs Indonesia
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6y1l0qg8.png" group-title="Gavang",28/09 23:00 | Georgia vs Ukraine
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8d0wr1g.png" group-title="Gavang",28/09 23:00 | Latvia vs Cyprus
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89ywjqwz.png" group-title="Gavang",29/09 01:45 | Belgium vs France
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg3vd6q82.png" group-title="Gavang",29/09 01:45 | Northern Ireland vs Hungary
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9nod4m7v.png" group-title="Gavang",29/09 01:45 | Romania vs Bosnia and Herzegovina
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngy5nm0v.png" group-title="Gavang",29/09 01:45 | Sweden vs Poland
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9x6gq82.png" group-title="Gavang",29/09 17:00 | Australia vs Brazil
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkhyvdd5qg8.png" group-title="Gavang",29/09 17:00 | Montedio Yamagata vs Yokohama F. Marinos
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx8zemd7.png" group-title="Gavang",29/09 19:30 | Thailand vs Vietnam
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6j1emoe.png" group-title="Gavang",29/09 20:00 | Ethiopia vs Senegal
+https://live2.zktsva.app/live/741294.m3u8
