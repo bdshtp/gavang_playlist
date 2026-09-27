@@ -51,6 +51,8 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1159r6o.png" group-title="Gavang",28/09 17:25 | Japan vs Venezuela
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phxgn4ym2w.png" group-title="Gavang",28/09 18:00 | South Korea vs Uruguay
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5l7g4ql0.png" group-title="Gavang",28/09 19:30 | Malaysia vs Indonesia
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6kz8eq86.png" group-title="Gavang",28/09 20:00 | FK Graficar Beograd vs Teleoptik
@@ -59,6 +61,8 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6y1l0qg8.png" group-title="Gavang",28/09 23:00 | Georgia vs Ukraine
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5yp5ryo.png" group-title="Gavang",28/09 23:00 | Armenia vs Montenegro
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8d0wr1g.png" group-title="Gavang",28/09 23:00 | Latvia vs Cyprus
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89ywjqwz.png" group-title="Gavang",29/09 01:45 | Belgium vs France
@@ -79,6 +83,8 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey1j9r6o.png" group-title="Gavang",29/09 07:00 | Jamaica vs Honduras
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv0xpqvy.png" group-title="Gavang",29/09 09:00 | Guatemala vs El Salvador
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1n829q0j.png" group-title="Gavang",29/09 16:00 | Philippines vs Pakistan
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9x6gq82.png" group-title="Gavang",29/09 17:00 | Australia vs Brazil
@@ -93,12 +99,16 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx8zemd7.png" group-title="Gavang",29/09 19:30 | Thailand vs Vietnam
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglk1zrep.png" group-title="Gavang",29/09 20:00 | Lesotho vs Morocco
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6j1emoe.png" group-title="Gavang",29/09 20:00 | Ethiopia vs Senegal
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7vdlpq1z.png" group-title="Gavang",29/09 22:00 | Al Khor SC vs Umm Salal
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp53q86.png" group-title="Gavang",29/09 23:00 | Finland vs Belarus
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk5ygerz8.png" group-title="Gavang",29/09 23:00 | Moldova vs Faroe Islands
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5lo1nql0.png" group-title="Gavang",29/09 23:00 | Cabo Verde vs Rwanda
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz2z0q86.png" group-title="Gavang",29/09 23:00 | Russia vs IR Iran
