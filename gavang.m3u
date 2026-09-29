@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dgeemoj.png" group-title="Gavang",30/09 01:45 | Spain vs Croatia
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2pjdrep.png" group-title="Gavang",30/09 01:45 | Czechia vs England
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9ygymoe.png" group-title="Gavang",30/09 01:45 | Scotland vs Switzerland
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx8y3pqo9.png" group-title="Gavang",30/09 01:45 | Slovenia vs North Macedonia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx79r8k.png" group-title="Gavang",30/09 01:45 | San Marino vs Albania
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0y0yr8k.png" group-title="Gavang",30/09 07:00 | USA vs Chile
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h54940rz8.png" group-title="Gavang",30/09 08:00 | Mexico vs Peru
