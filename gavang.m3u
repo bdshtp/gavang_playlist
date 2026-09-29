@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkhyvdd5qg8.png" group-title="Gavang",29/09 17:00 | Montedio Yamagata vs Yokohama F. Marinos
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9x6gq82.png" group-title="Gavang",29/09 17:10 | Australia vs Brazil
-https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1ng3ryo.png" group-title="Gavang",29/09 19:00 | Comoros vs Namibia
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx8zemd7.png" group-title="Gavang",29/09 19:30 | Thailand vs Vietnam
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1ng3ryo.png" group-title="Gavang",29/09 20:00 | Comoros vs Namibia
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglk1zrep.png" group-title="Gavang",29/09 20:00 | Lesotho vs Morocco
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6j1emoe.png" group-title="Gavang",29/09 20:00 | Ethiopia vs Senegal
