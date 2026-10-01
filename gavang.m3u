@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2pddrep.png" group-title="Gavang",02/10 01:45 | Wales vs Norway
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx8ydpqo9.png" group-title="Gavang",02/10 01:45 | Denmark vs Portugal
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dg8emoj.png" group-title="Gavang",02/10 01:45 | Germany vs Serbia
@@ -11,8 +9,6 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp13q86.png" group-title="Gavang",02/10 01:45 | Ireland vs Austria
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvkyozmd7.png" group-title="Gavang",02/10 01:45 | Malta vs Gibraltar
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4g1vgr8k.png" group-title="Gavang",02/10 05:00 | Curacao vs Trinidad and Tobago
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8kzgq82.png" group-title="Gavang",02/10 07:00 | Dominican Republic vs Haiti
