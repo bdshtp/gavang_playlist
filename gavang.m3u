@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz4ndq86.png" group-title="Gavang",01/10 17:10 | Japan vs Ecuador
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey0jlr6o.png" group-title="Gavang",01/10 19:30 | Indonesia vs Bangladesh
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj4v0jm2w.png" group-title="Gavang",01/10 19:30 | Malaysia vs Singapore
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6jpomoe.png" group-title="Gavang",01/10 20:15 | Dubai United vs Hatta
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6g3o0q86.png" group-title="Gavang",01/10 20:15 | Al-Sharjah vs Al Dhafra FC
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6jpomoe.png" group-title="Gavang",01/10 20:15 | Dubai United vs Hatta
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0yoyr8k.png" group-title="Gavang",01/10 21:00 | Maldives vs Lebanon
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h549l0rz8.png" group-title="Gavang",01/10 21:00 | Uzbekistan vs Syria
