@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh9v3zemoe.png" group-title="Gavang",01/10 13:10 | Panama vs New Zealand
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5l2e1ql0.png" group-title="Gavang",01/10 15:00 | Khaan Khuns-Erchim FC vs Central Stallions
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz4ndq86.png" group-title="Gavang",01/10 17:10 | Japan vs Ecuador
@@ -39,6 +37,8 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9ydymoe.png" group-title="Gavang",02/10 01:45 | Israel vs Kosovo
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp13q86.png" group-title="Gavang",02/10 01:45 | Ireland vs Austria
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8kzgq82.png" group-title="Gavang",02/10 07:00 | Dominican Republic vs Haiti
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh875e9qwz.png" group-title="Gavang",02/10 16:00 | Thailand vs Philippines
@@ -49,6 +49,8 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv9976md7.png" group-title="Gavang",02/10 18:00 | South Korea vs Venezuela
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdv49omoj.png" group-title="Gavang",02/10 18:00 | 1. FC Heidenheim 1846 vs Würzburger Kickers
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgnk2xq82.png" group-title="Gavang",02/10 18:35 | China vs Palestine
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehg7p88r51.png" group-title="Gavang",02/10 20:15 | Al-Wasl SC vs Ittihad Kalba FC
