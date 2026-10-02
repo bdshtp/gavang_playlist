@@ -7,8 +7,6 @@ https://live2.zktsva.app/live/432017.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv9976md7.png" group-title="Gavang",02/10 18:00 | South Korea vs Venezuela
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdv49omoj.png" group-title="Gavang",02/10 18:00 | 1. FC Heidenheim 1846 vs Würzburger Kickers
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgnk2xq82.png" group-title="Gavang",02/10 18:35 | China vs Palestine
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2zx1jrep.png" group-title="Gavang",02/10 19:00 | LOSC Lille vs Zulte-Waregem
@@ -69,3 +67,17 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx69r8k.png" group-title="Gavang",03/10 23:00 | Estonia vs Luxembourg
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58x99ryo.png" group-title="Gavang",04/10 01:00 | Canada vs Peru
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2p4drep.png" group-title="Gavang",04/10 01:45 | Spain vs Czechia
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx8yppqo9.png" group-title="Gavang",04/10 01:45 | Switzerland vs Slovenia
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghekddxr6o.png" group-title="Gavang",04/10 01:45 | North Macedonia vs Scotland
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdvw5ymoj.png" group-title="Gavang",04/10 07:00 | Argentina vs Burkina Faso
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1202ryo.png" group-title="Gavang",04/10 17:00 | Sporting de Gijon B vs Union Langreo
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg940zq82.png" group-title="Gavang",04/10 19:00 | Real Sociedad B vs Granada CF
+https://live2.zktsva.app/live/303098.m3u8
