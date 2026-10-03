@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5y45ryo.png" group-title="Gavang",03/10 20:00 | Finland vs Albania
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwnj4xryo.png" group-title="Gavang",03/10 21:00 | India vs Brazil
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyoe24ryk.png" group-title="Gavang",03/10 21:15 | Almeria vs Burgos CF
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy636kryk.png" group-title="Gavang",03/10 22:55 | Saudi Arabia vs Qatar
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dgnemoj.png" group-title="Gavang",03/10 23:00 | Croatia vs England
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9yzymoe.png" group-title="Gavang",03/10 23:00 | Belarus vs San Marino
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6ypn3q86.png" group-title="Gavang",03/10 23:00 | Iceland vs Bulgaria
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx69r8k.png" group-title="Gavang",03/10 23:00 | Estonia vs Luxembourg
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58x99ryo.png" group-title="Gavang",04/10 01:00 | Canada vs Peru
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58x99ryo.png" group-title="Gavang",04/10 01:15 | Canada vs Peru
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2p4drep.png" group-title="Gavang",04/10 01:45 | Spain vs Czechia
 https://live2.zktsva.app/live/304565.m3u8
