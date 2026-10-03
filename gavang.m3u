@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz380moe.png" group-title="Gavang",03/10 14:00 | Machida Zelvia vs Kyoto Sanga
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h66ye1moj.png" group-title="Gavang",03/10 15:00 | Ulsan Citizens vs Siheung City
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxp4j2qo9.png" group-title="Gavang",03/10 17:00 | Kashiwa Reysol vs Gamba Osaka
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghkvln9r6o.png" group-title="Gavang",03/10 17:00 | Hong Kong vs Cambodia
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxp4j2qo9.png" group-title="Gavang",03/10 17:00 | Kashiwa Reysol vs Gamba Osaka
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh9x6wzqwz.png" group-title="Gavang",03/10 18:30 | Brentwood Town vs Dagenham   Redbridge
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvoe4ymd7.png" group-title="Gavang",03/10 19:00 | Albacete Balompié SAD vs Eibar
