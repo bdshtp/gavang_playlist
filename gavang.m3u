@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgpyd1rep.png" group-title="Gavang",04/10 17:00 | SC Farense vs GD Chaves
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h616z0q86.png" group-title="Gavang",04/10 17:00 | Tegevajaro Miyazaki vs RB Omiya Ardija
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg940zq82.png" group-title="Gavang",04/10 19:00 | Real Sociedad B vs Granada CF
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1lw4ryo.png" group-title="Gavang",04/10 19:00 | Semen Padang vs PSPS Riau
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4jpw7r8k.png" group-title="Gavang",04/10 19:30 | VVV Venlo vs Roda JC
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjxyy5m2w.png" group-title="Gavang",04/10 20:00 | Azerbaijan vs Lithuania
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh9xz23qwz.png" group-title="Gavang",04/10 20:30 | Hamburger SV vs FC Copenhagen
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9052xm7v.png" group-title="Gavang",04/10 21:15 | Sporting Gijon vs Celta Vigo B
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9j0xkm7v.png" group-title="Gavang",04/10 22:00 | Umea FC vs Hammarby TFF
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjxyyzm2w.png" group-title="Gavang",04/10 23:00 | Kosovo vs Austria
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn4gg4qvy.png" group-title="Gavang",04/10 23:00 | Malta vs Andorra
