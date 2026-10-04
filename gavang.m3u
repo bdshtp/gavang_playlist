@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy636kryk.png" group-title="Gavang",03/10 22:55 | Saudi Arabia vs Qatar
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58x99ryo.png" group-title="Gavang",04/10 01:15 | Canada vs Peru
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2p4drep.png" group-title="Gavang",04/10 01:45 | Spain vs Czechia
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx8yppqo9.png" group-title="Gavang",04/10 01:45 | Switzerland vs Slovenia
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghekddxr6o.png" group-title="Gavang",04/10 01:45 | North Macedonia vs Scotland
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l543r1g.png" group-title="Gavang",04/10 02:00 | Cote d'Ivoire vs Cameroon
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdvw5ymoj.png" group-title="Gavang",04/10 07:00 | Argentina vs Burkina Faso
-https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8zn4rz8.png" group-title="Gavang",04/10 09:00 | Belize vs French Guiana
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2z693rep.png" group-title="Gavang",04/10 09:00 | USA vs Mexico
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2z693rep.png" group-title="Gavang",04/10 09:10 | USA vs Mexico
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj4dd3m2w.png" group-title="Gavang",04/10 15:30 | Barito Putera vs Persela Lamongan
 https://live2.zktsva.app/live/796315.m3u8
