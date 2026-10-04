@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjxyyzm2w.png" group-title="Gavang",04/10 23:00 | Kosovo vs Austria
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn4gg4qvy.png" group-title="Gavang",04/10 23:00 | Malta vs Andorra
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6j9woqg8.png" group-title="Gavang",04/10 23:30 | UD Las Palmas vs Real Valladolid CF
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0y3yr8k.png" group-title="Gavang",05/10 01:00 | Egypt vs South Africa
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89yyjqwz.png" group-title="Gavang",05/10 01:45 | Netherlands vs Serbia
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyl88eryk.png" group-title="Gavang",05/10 01:45 | Greece vs Germany
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn422pqdy.png" group-title="Gavang",05/10 01:45 | Portugal vs Norway
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghekdd5r6o.png" group-title="Gavang",05/10 01:45 | Wales vs Denmark
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89yy8qwz.png" group-title="Gavang",05/10 01:45 | Ireland vs Israel
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h67lvnmoj.png" group-title="Gavang",05/10 02:00 | Guyana vs Dominica
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6jnwmoe.png" group-title="Gavang",05/10 05:00 | Trinidad and Tobago vs Curacao
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl8okyq1z.png" group-title="Gavang",05/10 06:00 | Aruba vs Anguilla
