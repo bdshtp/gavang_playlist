@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8lwk3qwz.png" group-title="Gavang",05/10 23:30 | Sweden U21 vs North Macedonia U21
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6y112qg8.png" group-title="Gavang",06/10 01:45 | France vs Belgium
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg3vvdq82.png" group-title="Gavang",06/10 01:45 | Italy vs Turkiye
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9noopm7v.png" group-title="Gavang",06/10 01:45 | Ukraine vs Hungary
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngyyjm0v.png" group-title="Gavang",06/10 01:45 | Northern Ireland vs Georgia
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5yyyryo.png" group-title="Gavang",06/10 01:45 | Romania vs Sweden
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8ddvr1g.png" group-title="Gavang",06/10 01:45 | Bosnia and Herzegovina vs Poland
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9noopm7v.png" group-title="Gavang",06/10 01:45 | Ukraine vs Hungary
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngyyjm0v.png" group-title="Gavang",06/10 01:45 | Northern Ireland vs Georgia
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dgg2moj.png" group-title="Gavang",06/10 01:45 | Montenegro vs Armenia
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8zj4rz8.png" group-title="Gavang",06/10 07:00 | Guatemala vs Suriname
