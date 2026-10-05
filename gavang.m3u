@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2pp5rep.png" group-title="Gavang",05/10 23:00 | Cyprus vs Latvia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7h4k61eqdy.png" group-title="Gavang",05/10 23:00 | Serbia U21 vs Russia U21
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8lwk3qwz.png" group-title="Gavang",05/10 23:30 | Sweden U21 vs North Macedonia U21
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6y112qg8.png" group-title="Gavang",06/10 01:45 | France vs Belgium
