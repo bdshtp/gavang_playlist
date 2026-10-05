@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx9wlmd7.png" group-title="Gavang",05/10 07:00 | Costa Rica vs Haiti
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h67ljnmoj.png" group-title="Gavang",05/10 09:00 | Nicaragua vs Dominican Republic
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45npeqvy.png" group-title="Gavang",05/10 16:00 | Malaysia vs Vietnam
@@ -11,8 +9,6 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkhyv6pdqg8.png" group-title="Gavang",05/10 20:00 | Indonesia vs Thailand
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhk6e58md7.png" group-title="Gavang",05/10 20:30 | Ukraine U21 vs Albania U21
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhlpe10ryk.png" group-title="Gavang",05/10 22:00 | Mauritius vs Sri Lanka
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2pp5rep.png" group-title="Gavang",05/10 23:00 | Cyprus vs Latvia
