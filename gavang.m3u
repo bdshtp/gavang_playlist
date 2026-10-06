@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9yjvmoe.png" group-title="Gavang",07/10 01:45 | Croatia vs Spain
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp38q86.png" group-title="Gavang",07/10 01:45 | England vs Czechia
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx13r8k.png" group-title="Gavang",07/10 01:45 | Switzerland vs North Macedonia
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl76onq1z.png" group-title="Gavang",07/10 01:45 | Belarus vs Finland
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvky9gmd7.png" group-title="Gavang",07/10 01:45 | Moldova vs Slovakia
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdvwjymoj.png" group-title="Gavang",07/10 06:00 | Argentina vs Benin
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z2vkqo9.png" group-title="Gavang",07/10 06:45 | Colombia vs Peru
