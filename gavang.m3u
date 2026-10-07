@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdvwjymoj.png" group-title="Gavang",07/10 06:30 | Argentina vs Benin
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh9v7nomoe.png" group-title="Gavang",07/10 07:00 | USA vs Canada
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8kjgq82.png" group-title="Gavang",07/10 09:00 | French Guiana vs Belize
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2z6y3rep.png" group-title="Gavang",07/10 09:30 | Mexico vs Chile
