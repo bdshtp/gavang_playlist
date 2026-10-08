@@ -29,8 +29,6 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6x34moe.png" group-title="Gavang",08/10 23:00 | KuPs vs AC Oulu
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn2k3gm0v.png" group-title="Gavang",09/10 00:00 | Al-Wakrah Sports Club vs Al-Gharafa Sports Club
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhlp238ryk.png" group-title="Gavang",09/10 00:00 | Modern Sport FC vs Bank El Ahly
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6379r6o.png" group-title="Gavang",09/10 00:30 | CFR Cluj vs FC Universitatea Cluj
@@ -39,6 +37,8 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnp28oqvy.png" group-title="Gavang",09/10 05:30 | Santos FC - SP vs Flamengo - RJ
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe54ger6o.png" group-title="Gavang",09/10 07:30 | Fluminense - RJ vs Coritiba SAF - PR
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyzj6qvy.png" group-title="Gavang",09/10 09:00 | International San Carlos vs Municipal Pérez Zeledón
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6z5dwmoj.png" group-title="Gavang",09/10 12:00 | Daejeon Hana Citizen vs Jeonbuk Hyundai Motors
