@@ -69,8 +69,6 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6n9enq86.png" group-title="Gavang",10/10 19:00 | Rayo Vallecano vs Athletic Club
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h618nzq86.png" group-title="Gavang",10/10 20:00 | Genoa vs Fiorentina
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5ln2qdy.png" group-title="Gavang",10/10 20:30 | FC Augsburg vs FC Bayern Munich
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8k08vqwz.png" group-title="Gavang",10/10 20:30 | 1. FSV Mainz 05 vs Bayer 04 Leverkusen
@@ -80,9 +78,9 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hne5ydqdy.png" group-title="Gavang",10/10 21:00 | Chelsea vs Bournemouth AFC
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghge9xxq82.png" group-title="Gavang",10/10 21:00 | Ipswich Town vs Fulham
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdpjwqo9.png" group-title="Gavang",10/10 21:00 | Sunderland vs Brighton Hove Albion
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdpjwqo9.png" group-title="Gavang",10/10 21:00 | Sunderland vs Brighton Hove Albion
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jxowqg8.png" group-title="Gavang",10/10 21:15 | Deportivo Alavés vs Atletico Madrid
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgepk4q82.png" group-title="Gavang",10/10 22:15 | LOSC Lille vs Havre Athletic Club
