@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe54ger6o.png" group-title="Gavang",09/10 07:30 | Fluminense - RJ vs Coritiba SAF - PR
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyzj6qvy.png" group-title="Gavang",09/10 09:00 | International San Carlos vs Municipal Pérez Zeledón
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6z5dwmoj.png" group-title="Gavang",09/10 12:00 | Daejeon Hana Citizen vs Jeonbuk Hyundai Motors
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl2elomoe.png" group-title="Gavang",09/10 14:30 | Gangwon FC vs Bucheon FC 1995
@@ -103,3 +101,5 @@ https://live2.zktsva.app/live/432017.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw4e97ryo.png" group-title="Gavang",10/10 23:30 | FC Barcelona vs Getafe
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyzj6qvy.png" group-title="Gavang",11/10 04:00 | International San Carlos vs Municipal Pérez Zeledón
+https://live2.zktsva.app/live/796315.m3u8
