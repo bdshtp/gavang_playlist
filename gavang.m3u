@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9xn5r1g.png" group-title="Gavang",10/10 23:30 | Manchester United vs Tottenham Hotspur
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw4e97ryo.png" group-title="Gavang",10/10 23:30 | FC Barcelona vs Getafe
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlo3x5q1z.png" group-title="Gavang",11/10 01:00 | Al Hilal vs Al Ittihad
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1j7ozq0j.png" group-title="Gavang",11/10 01:45 | Napoli vs Frosinone
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9px7lm7v.png" group-title="Gavang",11/10 01:45 | Lorient vs Paris FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndx2zm0v.png" group-title="Gavang",11/10 01:45 | AS Monaco vs Toulouse FC
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9evkr1g.png" group-title="Gavang",11/10 01:45 | Paris Saint Germain vs Le Mans
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1j7ozq0j.png" group-title="Gavang",11/10 01:45 | Napoli vs Frosinone
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndx2zm0v.png" group-title="Gavang",11/10 01:45 | AS Monaco vs Toulouse FC
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9px7lm7v.png" group-title="Gavang",11/10 01:45 | Lorient vs Paris FC
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkv1nzrz8.png" group-title="Gavang",11/10 02:00 | Real Madrid vs Villarreal CF
-https://live2.zktsva.app/live/294335.m3u8
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgpo17rep.png" group-title="Gavang",11/10 02:30 | Viseu vs Estoril
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnp98gqdy.png" group-title="Gavang",11/10 06:30 | Inter Miami CF vs DC United
