@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjd7k3m2w.png" group-title="Gavang",12/10 06:00 | Atletico San Luis vs Santos Laguna
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dolnqwz.png" group-title="Gavang",12/10 06:10 | Pachuca vs Necaxa
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyz2nqvy.png" group-title="Gavang",12/10 08:15 | Pumas U.N.A.M. vs Cruz Azul
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6gwkjq86.png" group-title="Gavang",12/10 15:00 | Guangzhou Dandelion Alpha vs Shanghai Second
