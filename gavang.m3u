@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghly316moe.png" group-title="Gavang",12/10 00:00 | Benfica vs Vitoria Guimaraes
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv9dn7md7.png" group-title="Gavang",12/10 01:00 | Al Shabab vs Al Taawoun
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5d3opql0.png" group-title="Gavang",12/10 01:45 | Cagliari vs Juventus
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgdokerep.png" group-title="Gavang",12/10 01:45 | Troyes vs Marseille
