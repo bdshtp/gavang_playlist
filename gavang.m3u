@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlxpzeq1z.png" group-title="Gavang",11/10 09:40 | Los Angeles FC vs Vancouver Whitecaps
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy51y0ryk.png" group-title="Gavang",11/10 12:00 | Gwangju Football Club vs Ulsan HD FC
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvd3e6md7.png" group-title="Gavang",11/10 13:00 | Tokyo Verdy vs Sanfrecce Hiroshima
@@ -111,6 +109,8 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlwdgjq1z.png" group-title="Gavang",13/10 20:45 | East Bengal FC vs Al Shorta
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1dl86q0j.png" group-title="Gavang",13/10 21:00 | Abou Qir Fertilizers SC vs Asyut Petroleum
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglgx7rep.png" group-title="Gavang",13/10 21:00 | Atletico de Madrid U19 vs Manchester United U19
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1w554q0j.png" group-title="Gavang",13/10 23:00 | Al-Sadd Sports Club vs Al Hilal
