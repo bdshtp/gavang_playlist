@@ -9,8 +9,6 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjj77dm2w.png" group-title="Gavang",11/10 18:35 | Liaoning Tieren vs Wuhan Three Towns
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh90e1lm7v.png" group-title="Gavang",11/10 19:00 | Elche CF vs RC Celta
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd642qdy.png" group-title="Gavang",11/10 19:15 | Hanoi FC vs Bac Ninh
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h683olmoj.png" group-title="Gavang",11/10 20:00 | Lecce vs Bologna
@@ -29,12 +27,10 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndj70m0v.png" group-title="Gavang",11/10 22:30 | Liverpool vs Manchester City
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvo4vdmd7.png" group-title="Gavang",11/10 22:30 | SC Freiburg vs Schalke 04
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1j7pgq0j.png" group-title="Gavang",11/10 23:00 | Sassuolo vs AC Milan
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9174q82.png" group-title="Gavang",11/10 23:30 | Real Betis vs CA Osasuna
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9174q82.png" group-title="Gavang",11/10 23:30 | Real Betis vs CA Osasuna
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghly316moe.png" group-title="Gavang",12/10 00:00 | Benfica vs Vitoria Guimaraes
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv9dn7md7.png" group-title="Gavang",12/10 01:00 | Al Shabab vs Al Taawoun
