@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5d3opql0.png" group-title="Gavang",12/10 01:45 | Cagliari vs Juventus
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgdokerep.png" group-title="Gavang",12/10 01:45 | Troyes vs Marseille
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxpk03qo9.png" group-title="Gavang",12/10 02:00 | Racing Santander vs Valencia CF
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxy4k9qo9.png" group-title="Gavang",12/10 02:30 | FC Arouca vs CF Estrela Amadora SAD
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjd7k3m2w.png" group-title="Gavang",12/10 06:00 | Atletico San Luis vs Santos Laguna
@@ -15,7 +9,7 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6gwkjq86.png" group-title="Gavang",12/10 15:00 | Guangzhou Dandelion Alpha vs Shanghai Second
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61041q86.png" group-title="Gavang",12/10 15:00 | Ho Chi Minh City B Women vs Than KSVN Women
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61041q86.png" group-title="Gavang",12/10 16:00 | Ho Chi Minh City B Women vs Than KSVN Women
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkd7jyrz8.png" group-title="Gavang",12/10 18:00 | Thai Nguyen T&T Women vs Ha Noi Women
 https://live2.zktsva.app/live/741294.m3u8
