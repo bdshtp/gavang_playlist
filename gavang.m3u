@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnpx74qvy.png" group-title="Gavang",13/10 00:00 | Malmo FF vs Kalmar
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjdejryo.png" group-title="Gavang",13/10 01:15 | Al Nassr vs Neftchi Fergana
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgn22vq82.png" group-title="Gavang",13/10 01:15 | Al-Gharafa Sports Club vs Esteghlal Tehran
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4z5y8r8k.png" group-title="Gavang",13/10 01:15 | Al Quwa Al Jawiya vs Al-Ain FC
@@ -13,6 +9,8 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6n95dmoj.png" group-title="Gavang",13/10 02:00 | Levante vs Sevilla FC
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjdejryo.png" group-title="Gavang",13/10 02:15 | Al Nassr vs Neftchi Fergana
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj3k0xm2w.png" group-title="Gavang",13/10 05:30 | Chapecoense - SC vs Athletico Paranaense - PR
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5w385ql0.png" group-title="Gavang",13/10 07:00 | Red Bull Bragantino vs Cruzeiro - MG
