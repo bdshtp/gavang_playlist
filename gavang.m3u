@@ -1,26 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgvw85r51.png" group-title="Gavang",13/10 23:45 | RC Lens vs Sporting CP
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw6lwq1z.png" group-title="Gavang",13/10 23:45 | Sabah Baku vs SK Slavia Praha
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl586m2w.png" group-title="Gavang",14/10 01:15 | Al Ittihad vs Shabab Al Ahli
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn6elnqvy.png" group-title="Gavang",14/10 01:45 | Bristol City vs Blackburn Rovers
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5pnxrep.png" group-title="Gavang",14/10 02:00 | Arsenal vs LOSC Lille
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6jp26q86.png" group-title="Gavang",14/10 02:00 | Atletico Madrid vs Manchester United
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5pnxrep.png" group-title="Gavang",14/10 02:00 | Arsenal vs LOSC Lille
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1pwqg8.png" group-title="Gavang",14/10 02:00 | Galatasaray vs FC Barcelona
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkjd2kr1g.png" group-title="Gavang",14/10 02:00 | Inter Milan vs Club Brugge
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjlyj9m2w.png" group-title="Gavang",14/10 02:00 | RB Leipzig vs PSV Eindhoven
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw69jq1z.png" group-title="Gavang",14/10 02:00 | Viking vs FC Bayern Munich
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjlyj9m2w.png" group-title="Gavang",14/10 02:00 | RB Leipzig vs PSV Eindhoven
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghend73r6o.png" group-title="Gavang",14/10 02:00 | Villarreal CF vs Napoli
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkjd2kr1g.png" group-title="Gavang",14/10 02:00 | Inter Milan vs Club Brugge
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8zvj2qo9.png" group-title="Gavang",14/10 07:30 | Boca Juniors vs Vasco da Gama Saf - RJ
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxly0qdy.png" group-title="Gavang",14/10 14:45 | Melbourne Victory vs FC Seoul
