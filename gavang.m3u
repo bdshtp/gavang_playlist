@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9y63qo9.png" group-title="Gavang",14/10 23:45 | LASK Linz vs Liverpool
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnlgpkqvy.png" group-title="Gavang",14/10 23:45 | Feyenoord vs Como
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg4957rep.png" group-title="Gavang",15/10 01:45 | Norwich City vs Southampton
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e19dqg8.png" group-title="Gavang",15/10 02:00 | AS Roma vs Real Madrid
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5p6xrep.png" group-title="Gavang",15/10 02:00 | Aston Villa vs Fenerbahce
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh98olkm7v.png" group-title="Gavang",15/10 02:00 | FK Bodo/Glimt vs Borussia Dortmund
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e18wqg8.png" group-title="Gavang",15/10 02:00 | Manchester City vs Paris Saint Germain
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e19dqg8.png" group-title="Gavang",15/10 02:00 | AS Roma vs Real Madrid
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5p6xrep.png" group-title="Gavang",15/10 02:00 | Aston Villa vs Fenerbahce
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8vyolqwz.png" group-title="Gavang",15/10 02:00 | Real Betis vs FC Porto
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh98olkm7v.png" group-title="Gavang",15/10 02:00 | FK Bodo/Glimt vs Borussia Dortmund
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy68l1ryk.png" group-title="Gavang",15/10 02:00 | FC Shakhtar Donetsk vs AEK Athens
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh98onlm7v.png" group-title="Gavang",15/10 02:00 | Slovan Bratislava vs VfB Stuttgart
