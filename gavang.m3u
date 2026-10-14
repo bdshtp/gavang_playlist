@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9767qo9.png" group-title="Gavang",14/10 17:00 | Vissel Kobe vs Jeonbuk Hyundai Motors
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn80ekm0v.png" group-title="Gavang",14/10 17:00 | Kashiwa Reysol vs Port FC
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjyo1lr51.png" group-title="Gavang",14/10 17:00 | Yokohama F. Marinos vs Shimizu S-Pulse
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhlp5v3ryk.png" group-title="Gavang",14/10 17:00 | Gainare Tottori vs Cerezo Osaka
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5l5wzql0.png" group-title="Gavang",14/10 19:00 | AS Roma U19 vs Real Madrid U19
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8v03wqwz.png" group-title="Gavang",14/10 19:15 | Persib Bandung vs The Cong-Viettel
