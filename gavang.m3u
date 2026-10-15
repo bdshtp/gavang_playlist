@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1owkr6o.png" group-title="Gavang",15/10 20:40 | Al Faisaly vs Al Kholood
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn0yzyqvy.png" group-title="Gavang",15/10 21:50 | Al Khaleej vs Al Fayha
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8v735qwz.png" group-title="Gavang",15/10 23:45 | Lech Poznan vs Bayer 04 Leverkusen
@@ -18,7 +16,7 @@ https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1wn4yq0j.png" group-title="Gavang",15/10 23:45 | CS Universitatea Craiova vs Getafe
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9lzeqo9.png" group-title="Gavang",16/10 02:00 | FC Copenhagen vs Sporting Braga
-https://live2.zktsva.app/live/307240.m3u8
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1wnkvq0j.png" group-title="Gavang",16/10 02:00 | Benfica vs Celtic FC
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e7o8qg8.png" group-title="Gavang",16/10 02:00 | Bournemouth AFC vs Sturm Graz
@@ -43,6 +41,8 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6kj1m2w.png" group-title="Gavang",16/10 16:00 | Sydney FC vs Western Sydney Wanderers FC
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4gd52r8k.png" group-title="Gavang",16/10 17:00 | Dong Thap vs Quy Nhon United
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h66l29q86.png" group-title="Gavang",16/10 18:35 | Henan FC vs Tianjin Jinmen Tiger
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwnzy3ryo.png" group-title="Gavang",16/10 19:00 | Ayutthaya United vs Lamphun Warriors
