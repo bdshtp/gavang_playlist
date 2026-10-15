@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy62z5ryk.png" group-title="Gavang",15/10 19:15 | Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghen2pkr6o.png" group-title="Gavang",15/10 19:15 | Tampines Rovers FC vs Machida Zelvia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn8073m0v.png" group-title="Gavang",15/10 19:15 | Kuching City FC vs Kitchee
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1owkr6o.png" group-title="Gavang",15/10 20:40 | Al Faisaly vs Al Kholood
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn0yzyqvy.png" group-title="Gavang",15/10 21:50 | Al Khaleej vs Al Fayha
@@ -23,8 +17,6 @@ https://live2.zktsva.app/live/294335.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1wn4yq0j.png" group-title="Gavang",15/10 23:45 | CS Universitatea Craiova vs Getafe
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy4w35ryk.png" group-title="Gavang",16/10 01:00 | Al Ahli SC vs Al Nassr
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9lzeqo9.png" group-title="Gavang",16/10 02:00 | FC Copenhagen vs Sporting Braga
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1wnkvq0j.png" group-title="Gavang",16/10 02:00 | Benfica vs Celtic FC
