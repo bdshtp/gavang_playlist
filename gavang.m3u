@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlwy4lmoe.png" group-title="Gavang",16/10 15:30 | PSIM Yogyakarta vs Persatuan Sepakbola Makassar
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6kj1m2w.png" group-title="Gavang",16/10 16:00 | Sydney FC vs Western Sydney Wanderers FC
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h66l29q86.png" group-title="Gavang",16/10 18:35 | Henan FC vs Tianjin Jinmen Tiger
@@ -9,6 +7,8 @@ https://live2.zktsva.app/live/432017.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6kp8yq86.png" group-title="Gavang",16/10 19:00 | Java United F.C. vs Bali United
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz3yeq86.png" group-title="Gavang",16/10 20:05 | Al Dhafra FC vs Dubai United
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh65z0jqg8.png" group-title="Gavang",16/10 20:15 | Al Qadsiah vs Abha
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6l528moj.png" group-title="Gavang",16/10 21:30 | Al-Ahli Sports Club(Qatar) vs Al-Wakrah Sports Club
