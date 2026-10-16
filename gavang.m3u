@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz3yeq86.png" group-title="Gavang",16/10 20:05 | Al Dhafra FC vs Dubai United
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh65z0jqg8.png" group-title="Gavang",16/10 20:15 | Al Qadsiah vs Abha
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6l528moj.png" group-title="Gavang",16/10 21:30 | Al-Ahli Sports Club(Qatar) vs Al-Wakrah Sports Club
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkxol3r1g.png" group-title="Gavang",16/10 22:00 | FC Otelul Galati vs FK Csikszereda Miercurea Ciuc
@@ -28,9 +24,9 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9j63ym7v.png" group-title="Gavang",17/10 06:00 | Mirassol - SP vs Internacional - RS
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgj62drep.png" group-title="Gavang",17/10 07:30 | Boca Juniors vs Talleres Cordoba
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z03yqg8.png" group-title="Gavang",17/10 08:00 | Necaxa vs Atlas
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z03yqg8.png" group-title="Gavang",17/10 08:00 | Necaxa vs Atlas
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgewjoq82.png" group-title="Gavang",17/10 10:00 | Atlante FC vs Pumas U.N.A.M.
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgdw86rep.png" group-title="Gavang",17/10 12:00 | JEF United Ichihara Chiba vs Yokohama F. Marinos
@@ -38,7 +34,7 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld20gmoe.png" group-title="Gavang",17/10 13:00 | Cerezo Osaka vs Kawasaki Frontale
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgzodpr51.png" group-title="Gavang",17/10 14:00 | Mito Hollyhock vs Urawa Red Diamonds
-https://live2.zktsva.app/live/432017.m3u8
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl2e2omoe.png" group-title="Gavang",17/10 14:30 | Ulsan HD FC vs Bucheon FC 1995
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8plndqwz.png" group-title="Gavang",17/10 15:40 | Central Coast Mariners vs Newcastle Jets
