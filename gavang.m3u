@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjdepkm2w.png" group-title="Gavang",17/10 21:00 | Manchester City vs Ipswich Town
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61nvyq86.png" group-title="Gavang",17/10 21:00 | Brentford vs Liverpool
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1jo0pq0j.png" group-title="Gavang",17/10 21:00 | Fulham vs Hull City
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg41yerep.png" group-title="Gavang",17/10 21:15 | Villarreal CF vs Elche CF
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5d8olql0.png" group-title="Gavang",17/10 22:15 | RC Strasbourg Alsace vs Paris Saint Germain
