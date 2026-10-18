@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg84ojq82.png" group-title="Gavang",18/10 19:15 | Cong An Ha Noi FC vs Hanoi FC
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywoz6ryk.png" group-title="Gavang",18/10 20:00 | Leeds United vs Manchester United
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghldz8lmoe.png" group-title="Gavang",18/10 20:00 | Bournemouth AFC vs Sunderland
@@ -29,8 +27,6 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo2jzr6o.png" group-title="Gavang",19/10 01:00 | NEC Nijmegen vs Fortuna Sittard
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghge2p7q82.png" group-title="Gavang",19/10 01:00 | 2026-2027 vs FC Utrecht
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdop9qo9.png" group-title="Gavang",19/10 01:45 | Juventus vs Lazio
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgz0p5r51.png" group-title="Gavang",19/10 01:45 | Lyon vs OGC Nice
