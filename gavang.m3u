@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jxdwqg8.png" group-title="Gavang",18/10 23:30 | Malaga vs Real Sociedad
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h16x8kq0j.png" group-title="Gavang",19/10 00:45 | Racing Club de Avellaneda vs CA Independiente
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo2jzr6o.png" group-title="Gavang",19/10 01:00 | NEC Nijmegen vs Fortuna Sittard
@@ -9,12 +7,12 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgz0p5r51.png" group-title="Gavang",19/10 01:45 | Lyon vs OGC Nice
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnj1vzm0v.png" group-title="Gavang",19/10 02:00 | Real Madrid vs Sevilla FC
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5w345ql0.png" group-title="Gavang",19/10 02:00 | Fluminense - RJ vs Santos FC - SP
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6o826q86.png" group-title="Gavang",19/10 02:00 | Grêmio - RS vs Cruzeiro - MG
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnj1vzm0v.png" group-title="Gavang",19/10 02:00 | Real Madrid vs Sevilla FC
-https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5w3x9ql0.png" group-title="Gavang",19/10 05:30 | Remo - PA vs Red Bull Bragantino
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdgo9qo9.png" group-title="Gavang",19/10 08:00 | Rayados de Monterrey vs Pachuca
