@@ -1,26 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgzn94r51.png" group-title="Gavang",18/10 17:30 | Udinese vs Lecce
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh99l58m7v.png" group-title="Gavang",18/10 18:00 | Beijing Guoan vs Qingdao West Coast
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv14vqvy.png" group-title="Gavang",18/10 18:00 | Bac Ninh vs Truong Tuoi Dong Nai
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6792vqg8.png" group-title="Gavang",18/10 18:00 | Ninh Binh FC vs Hoang Anh Gia Lai
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh90ezlm7v.png" group-title="Gavang",18/10 19:00 | CA Osasuna vs Racing Santander
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg84ojq82.png" group-title="Gavang",18/10 19:15 | Cong An Ha Noi FC vs Hanoi FC
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6183vq86.png" group-title="Gavang",18/10 20:00 | Fiorentina vs Como
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxd4e3qo9.png" group-title="Gavang",18/10 20:00 | Angers SCO vs Marseille
-https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywoz6ryk.png" group-title="Gavang",18/10 20:00 | Leeds United vs Manchester United
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghldz8lmoe.png" group-title="Gavang",18/10 20:00 | Bournemouth AFC vs Sunderland
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkdvwgrz8.png" group-title="Gavang",18/10 20:00 | Brighton Hove Albion vs Crystal Palace
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywoz6ryk.png" group-title="Gavang",18/10 20:00 | Leeds United vs Manchester United
-https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6183vq86.png" group-title="Gavang",18/10 20:00 | Fiorentina vs Como
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxd4e3qo9.png" group-title="Gavang",18/10 20:00 | Angers SCO vs Marseille
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1o5y6q0j.png" group-title="Gavang",18/10 20:30 | Bayer 04 Leverkusen vs SC Freiburg
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyov91ryk.png" group-title="Gavang",18/10 21:15 | RC Celta vs Deportivo Alavés
