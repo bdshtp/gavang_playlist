@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywg07ryk.png" group-title="Gavang",19/10 23:30 | Monza vs Cagliari
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8kekjqwz.png" group-title="Gavang",19/10 23:30 | Rodina Moscow vs FC Orenburg
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgk7evrep.png" group-title="Gavang",19/10 23:50 | Al-Raed SFC vs Al Saqer
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58e61ryo.png" group-title="Gavang",19/10 23:55 | Al-Jahra vs Kazma
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnypdxm0v.png" group-title="Gavang",20/10 00:00 | Trabzonspor vs Besiktas JK
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxed60qo9.png" group-title="Gavang",20/10 01:00 | Al Hilal vs Al Hazem
