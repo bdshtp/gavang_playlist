@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkey2zrz8.png" group-title="Gavang",21/10 02:00 | Paris Saint Germain vs FC Barcelona
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn8yezm0v.png" group-title="Gavang",21/10 02:00 | Manchester City vs AEK Athens
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8vyn1qwz.png" group-title="Gavang",21/10 02:00 | Liverpool vs Villarreal CF
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn8yp1m0v.png" group-title="Gavang",21/10 02:00 | AS Roma vs Slovan Bratislava
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy683kryk.png" group-title="Gavang",21/10 02:00 | FC Porto vs PSV Eindhoven
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6jpxnq86.png" group-title="Gavang",21/10 02:00 | Napoli vs FK Bodo/Glimt
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw67wq1z.png" group-title="Gavang",21/10 02:00 | VfB Stuttgart vs Atletico Madrid
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j83or8k.png" group-title="Gavang",21/10 07:07 | Club Deportivo Guadalajara vs Necaxa
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh9vn80moe.png" group-title="Gavang",21/10 07:30 | Vasco da Gama Saf - RJ vs Boca Juniors
@@ -50,7 +36,7 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9y26qo9.png" group-title="Gavang",22/10 02:00 | Aston Villa vs Viking
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2ye9md7.png" group-title="Gavang",22/10 02:00 | FC Bayern Munich vs Arsenal
-https://live2.zktsva.app/live/301238.m3u8
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnlgzeqvy.png" group-title="Gavang",22/10 02:00 | Real Betis vs Feyenoord
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9yg6qo9.png" group-title="Gavang",22/10 02:00 | Club Brugge vs RC Lens
@@ -58,7 +44,7 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xg0dmoj.png" group-title="Gavang",22/10 02:00 | Inter Milan vs FC Shakhtar Donetsk
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh98o9lm7v.png" group-title="Gavang",22/10 02:00 | Real Madrid vs RB Leipzig
-https://live2.zktsva.app/live/304565.m3u8
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xgddmoj.png" group-title="Gavang",22/10 02:00 | Sporting CP vs LASK Linz
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2zo4zrep.png" group-title="Gavang",22/10 05:00 | Montevideo City Torque vs Atlético Mineiro - MG
