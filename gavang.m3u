@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph41jlnr8k.png" group-title="Gavang",20/10 22:10 | Al Taawoun vs Al Qadsiah
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx23jqdy.png" group-title="Gavang",20/10 23:45 | Fenerbahce vs SK Slavia Praha
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkeykzrz8.png" group-title="Gavang",20/10 23:45 | Sabah Baku vs Borussia Dortmund
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx23jqdy.png" group-title="Gavang",20/10 23:45 | Fenerbahce vs SK Slavia Praha
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghljdpnmoe.png" group-title="Gavang",21/10 01:00 | Al Nassr vs Neom SC
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn8yp1m0v.png" group-title="Gavang",21/10 02:00 | AS Roma vs Slovan Bratislava
@@ -25,7 +25,7 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh9vn80moe.png" group-title="Gavang",21/10 07:30 | Vasco da Gama Saf - RJ vs Boca Juniors
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkd0nnrz8.png" group-title="Gavang",21/10 10:10 | Tigres UANL vs Club Leon
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkd0nnrz8.png" group-title="Gavang",21/10 10:00 | Tigres UANL vs Club Leon
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghezdgvr6o.png" group-title="Gavang",21/10 15:30 | Bali United vs Garudayaksa FC
 https://live2.zktsva.app/live/300523.m3u8
