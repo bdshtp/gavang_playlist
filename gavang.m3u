@@ -93,10 +93,16 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9oklzm7v.png" group-title="Gavang",23/10 08:00 | Alebrijes de Oaxaca vs Cruz Azul Hidalgo
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphkooo2r8k.png" group-title="Gavang",23/10 08:00 | CD Motagua vs LD Alajuelense
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkv72lr1g.png" group-title="Gavang",23/10 16:00 | Brisbane Roar vs Perth Glory
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1xovryo.png" group-title="Gavang",23/10 17:00 | Hoang Anh Gia Lai vs Song Lam Nghe An
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd9lgqdy.png" group-title="Gavang",23/10 17:00 | Khatoco Khanh Hoa vs Quang Ninh
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey02or6o.png" group-title="Gavang",23/10 18:00 | Quy Nhon United vs Lam Dong
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1y80ryo.png" group-title="Gavang",23/10 18:00 | Becamex Ho Chi Minh City vs Thai Nguyen
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkp5wnr1g.png" group-title="Gavang",23/10 19:15 | The Cong-Viettel vs Bac Ninh
@@ -115,3 +121,5 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlzkevmoe.png" group-title="Gavang",23/10 23:30 | SV Darmstadt 98 vs FC St. Pauli
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8kj3kqwz.png" group-title="Gavang",23/10 23:30 | VfL Bochum 1848 vs VfL Wolfsburg
+https://live2.zktsva.app/live/301263.m3u8
