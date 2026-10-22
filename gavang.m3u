@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnlvepqvy.png" group-title="Gavang",23/10 02:00 | Bournemouth AFC vs AC Milan
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6x7vnmoj.png" group-title="Gavang",23/10 02:00 | AFC Ajax vs Atalanta
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hke8l4rz8.png" group-title="Gavang",23/10 02:00 | AS Monaco vs SC Freiburg
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8v74oqwz.png" group-title="Gavang",23/10 02:00 | Besiktas JK vs Crystal Palace
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgv74nr51.png" group-title="Gavang",23/10 02:00 | Celtic FC vs RC Celta
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn8lv2m0v.png" group-title="Gavang",23/10 02:00 | TSG Hoffenheim vs Lyon
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5l3zrep.png" group-title="Gavang",23/10 02:00 | Lillestrom vs Real Sociedad
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwj1e3ryo.png" group-title="Gavang",23/10 02:00 | Sporting Braga vs KAA Gent
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh9x3d5qwz.png" group-title="Gavang",23/10 07:30 | Flamengo - RJ vs Estudiantes La Plata
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9oklzm7v.png" group-title="Gavang",23/10 08:00 | Alebrijes de Oaxaca vs Cruz Azul Hidalgo
