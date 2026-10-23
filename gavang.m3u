@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyo2ndryk.png" group-title="Gavang",24/10 01:30 | VfB Stuttgart vs Borussia Monchengladbach
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo4dwr6o.png" group-title="Gavang",24/10 01:45 | Torino vs Monza
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hneyvjqdy.png" group-title="Gavang",24/10 01:45 | Stade Brestois 29 vs OGC Nice
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndj0em0v.png" group-title="Gavang",24/10 02:00 | Ipswich Town vs Nottingham Forest
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6n9dnq86.png" group-title="Gavang",24/10 02:00 | Deportivo Alavés vs Malaga
