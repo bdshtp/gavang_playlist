@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywo29ryk.png" group-title="Gavang",24/10 21:00 | Arsenal vs Everton
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dk00qwz.png" group-title="Gavang",24/10 21:00 | Coventry City vs Fulham
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld4x6moe.png" group-title="Gavang",24/10 23:00 | Napoli vs AS Roma
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo62pr6o.png" group-title="Gavang",24/10 23:30 | Chelsea vs Tottenham Hotspur
@@ -11,8 +7,6 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl0dp6q1z.png" group-title="Gavang",24/10 23:30 | Borussia Dortmund vs Eintracht Frankfurt
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh90555m7v.png" group-title="Gavang",24/10 23:30 | Girona FC vs Celta Vigo B
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4joxor8k.png" group-title="Gavang",25/10 01:45 | Lazio vs Parma
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo8z8r6o.png" group-title="Gavang",25/10 01:45 | RC Lens vs Paris FC
@@ -63,6 +57,8 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6274r6o.png" group-title="Gavang",25/10 21:30 | TSG Hoffenheim vs Bayer 04 Leverkusen
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh591glql0.png" group-title="Gavang",25/10 22:15 | RC Celta vs Real Betis
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvdwj0md7.png" group-title="Gavang",25/10 23:15 | Angers SCO vs Lorient
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjdw19m2w.png" group-title="Gavang",25/10 23:15 | Marseille vs Havre Athletic Club
