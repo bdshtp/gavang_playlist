@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo62vr6o.png" group-title="Gavang",24/10 18:30 | Aston Villa vs Manchester City
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdo39qo9.png" group-title="Gavang",24/10 20:00 | Cagliari vs Bologna
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z3jyqg8.png" group-title="Gavang",24/10 20:00 | Como vs Sassuolo
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdo39qo9.png" group-title="Gavang",24/10 20:00 | Cagliari vs Bologna
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvo482md7.png" group-title="Gavang",24/10 20:30 | RB Leipzig vs SV 07 Elversberg
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh903d3m7v.png" group-title="Gavang",24/10 20:30 | FC Augsburg vs 1. FC Union Berlin
