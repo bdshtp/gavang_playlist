@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk2n20rz8.png" group-title="Gavang",24/10 12:00 | FC Seoul vs Gangwon FC
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjzojym2w.png" group-title="Gavang",24/10 12:00 | FC Anyang vs Jeonbuk Hyundai Motors
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dn0xqwz.png" group-title="Gavang",24/10 13:00 | Kashima Antlers vs Kashiwa Reysol
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld27gmoe.png" group-title="Gavang",24/10 14:00 | Gamba Osaka vs Kyoto Sanga
