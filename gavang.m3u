@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjepw9m2w.png" group-title="Gavang",26/10 00:30 | Real Sociedad vs Levante
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghed82wr6o.png" group-title="Gavang",26/10 01:00 | Nacional da Madeira vs Sporting Braga
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjyw53m2w.png" group-title="Gavang",26/10 01:00 | Rio Ave vs FC Famalicao
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1j7lzq0j.png" group-title="Gavang",26/10 02:45 | Udinese vs AC Milan
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvo1w0md7.png" group-title="Gavang",26/10 03:00 | FC Barcelona vs Real Madrid
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy8j2yryk.png" group-title="Gavang",26/10 03:30 | Sporting CP vs Viseu
