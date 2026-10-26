@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhko04gr1g.png" group-title="Gavang",26/10 08:00 | Los Angeles FC vs Los Angeles Galaxy
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z0oyqg8.png" group-title="Gavang",26/10 08:05 | Club America vs Pachuca
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhko04gr1g.png" group-title="Gavang",26/10 08:10 | Los Angeles FC vs Los Angeles Galaxy
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9pl1dm7v.png" group-title="Gavang",26/10 10:10 | Club Tijuana vs Santos Laguna
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45zn6qvy.png" group-title="Gavang",26/10 18:30 | FK Van Charentsavan vs Gandzasar Kapan
