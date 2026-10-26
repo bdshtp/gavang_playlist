@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z0oyqg8.png" group-title="Gavang",26/10 08:05 | Club America vs Pachuca
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhko04gr1g.png" group-title="Gavang",26/10 08:10 | Los Angeles FC vs Los Angeles Galaxy
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9pl1dm7v.png" group-title="Gavang",26/10 10:10 | Club Tijuana vs Santos Laguna
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45zn6qvy.png" group-title="Gavang",26/10 18:30 | FK Van Charentsavan vs Gandzasar Kapan
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45zn6qvy.png" group-title="Gavang",26/10 18:00 | FK Van Charentsavan vs Gandzasar Kapan
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9wo1jm7v.png" group-title="Gavang",26/10 19:00 | Bhayangkara Presisi Indonesia FC vs Persatuan Sepakbola Makassar
 https://live2.zktsva.app/live/741294.m3u8
@@ -31,8 +25,10 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1pd84q0j.png" group-title="Gavang",26/10 23:45 | Al Ula FC vs Al-Orobah FC
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh524nxql0.png" group-title="Gavang",27/10 01:15 | Al Qadsiah vs Al-Sadd Sports Club
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3400q1z.png" group-title="Gavang",27/10 01:00 | FC Copenhagen vs Odense BK
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh524nxql0.png" group-title="Gavang",27/10 01:15 | Al Qadsiah vs Al-Sadd Sports Club
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgve2or51.png" group-title="Gavang",27/10 01:15 | Al Quwa Al Jawiya vs Pakhtakor
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgp6dnrep.png" group-title="Gavang",27/10 01:30 | Galatasaray vs Fenerbahce
