@@ -1,36 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg922kq82.png" group-title="Gavang",28/10 22:15 | FK Rostov vs Akron Togliatti
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn80k5m0v.png" group-title="Gavang",28/10 23:00 | Al-Jazira(UAE) vs Al-Muharraq
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh983zgm7v.png" group-title="Gavang",28/10 23:00 | Al Nahda SC vs Al-Rayyan Sports Club
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd9y3qdy.png" group-title="Gavang",28/10 23:00 | AC Oulu vs Vaasa VPS
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l18yr1g.png" group-title="Gavang",28/10 23:00 | Esbjerg vs Nordsjaelland
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1nog5q0j.png" group-title="Gavang",29/10 00:00 | SC Freiburg vs VfL Wolfsburg
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhydoxeryk.png" group-title="Gavang",29/10 00:00 | SC Paderborn 07 vs VfB Stuttgart
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnewg6qdy.png" group-title="Gavang",29/10 00:30 | Venezia vs Inter Milan
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywgw7ryk.png" group-title="Gavang",29/10 00:30 | AC Milan vs Bologna
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2zo82rep.png" group-title="Gavang",29/10 02:30 | Manchester City vs Brighton Hove Albion
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnew56qdy.png" group-title="Gavang",29/10 02:45 | Monza vs Napoli
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h618pzq86.png" group-title="Gavang",29/10 02:45 | Genoa vs Juventus
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvxo7gmd7.png" group-title="Gavang",29/10 02:45 | FC Bayern Munich vs 1. FC Magdeburg
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyzdo5q86.png" group-title="Gavang",29/10 02:45 | Bournemouth AFC vs Aston Villa
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvxo7gmd7.png" group-title="Gavang",29/10 02:45 | FC Bayern Munich vs 1. FC Magdeburg
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7vjeoq1z.png" group-title="Gavang",29/10 02:45 | Fulham vs Crystal Palace
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h618pzq86.png" group-title="Gavang",29/10 02:45 | Genoa vs Juventus
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hye2gwq0j.png" group-title="Gavang",29/10 02:45 | Sunderland vs Brentford
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnew56qdy.png" group-title="Gavang",29/10 02:45 | Monza vs Napoli
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0gwkql0.png" group-title="Gavang",29/10 03:00 | Liverpool vs Chelsea
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgwoo5q82.png" group-title="Gavang",29/10 06:30 | Inter Miami CF vs FC Cincinnati
