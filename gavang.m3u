@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4655pr8k.png" group-title="Gavang",29/10 21:00 | Krylya Sovetov vs Dynamo Makhachkala
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx5y3nqo9.png" group-title="Gavang",29/10 21:00 | Modern Sport FC vs Al Ahly FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1o5dr6o.png" group-title="Gavang",29/10 21:35 | Al Khaleej vs Al Hazem
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh52ll8ql0.png" group-title="Gavang",29/10 23:00 | Volos NPS vs Atromitos Athens
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey08lr6o.png" group-title="Gavang",29/10 23:00 | Inter Turku vs HJK Helsinki
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9033wm7v.png" group-title="Gavang",29/10 23:30 | CSKA Moscow vs Lokomotiv Moscow
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlwyg7moe.png" group-title="Gavang",30/10 00:00 | Pyramids FC vs Wadi Degla SC
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj4vwjm2w.png" group-title="Gavang",30/10 00:00 | KuPs vs Gnistan Helsinki
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p6ddm7v.png" group-title="Gavang",30/10 00:30 | Frosinone vs Lecce
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6d36m2w.png" group-title="Gavang",30/10 01:00 | Al Nassr vs Al Kholood
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgp2z4r51.png" group-title="Gavang",30/10 01:45 | Sporting Braga vs FC Famalicao
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3k6gq1z.png" group-title="Gavang",30/10 02:45 | Fiorentina vs Atalanta
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h54x6vrz8.png" group-title="Gavang",30/10 02:45 | Everton vs Newcastle United
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3k6gq1z.png" group-title="Gavang",30/10 02:45 | Fiorentina vs Atalanta
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v88nq1z.png" group-title="Gavang",30/10 03:00 | Sporting Hortaleza vs Sevilla FC
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0ll1ql0.png" group-title="Gavang",30/10 03:00 | AE Prat vs Athletic Club
