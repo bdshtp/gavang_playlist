@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2zo82rep.png" group-title="Gavang",29/10 02:30 | Manchester City vs Brighton Hove Albion
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyzdo5q86.png" group-title="Gavang",29/10 02:45 | Bournemouth AFC vs Aston Villa
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvxo7gmd7.png" group-title="Gavang",29/10 02:45 | FC Bayern Munich vs 1. FC Magdeburg
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7vjeoq1z.png" group-title="Gavang",29/10 02:45 | Fulham vs Crystal Palace
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h618pzq86.png" group-title="Gavang",29/10 02:45 | Genoa vs Juventus
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hye2gwq0j.png" group-title="Gavang",29/10 02:45 | Sunderland vs Brentford
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnew56qdy.png" group-title="Gavang",29/10 02:45 | Monza vs Napoli
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0gwkql0.png" group-title="Gavang",29/10 03:00 | Liverpool vs Chelsea
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgwoo5q82.png" group-title="Gavang",29/10 06:30 | Inter Miami CF vs FC Cincinnati
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgwoo5q82.png" group-title="Gavang",29/10 06:40 | Inter Miami CF vs FC Cincinnati
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghew072r6o.png" group-title="Gavang",29/10 09:30 | San Jose Earthquakes vs Colorado Rapids
 https://live2.zktsva.app/live/307240.m3u8
