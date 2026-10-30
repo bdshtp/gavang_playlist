@@ -1,26 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8pdzwqwz.png" group-title="Gavang",30/10 21:50 | Diraiyah vs Neom SC
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6kp5lq86.png" group-title="Gavang",30/10 22:00 | Asyut Petroleum vs El Gounah
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dozvqwz.png" group-title="Gavang",30/10 22:10 | CSKA 1948 Sofia vs Spartak Varna
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlzldgmoe.png" group-title="Gavang",30/10 23:00 | FC Shakhtar Donetsk vs Obolon Kyiv
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6olnm2w.png" group-title="Gavang",30/10 23:30 | Al-Sadd Sports Club vs Al-Shamal Sports Club
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy4163ryk.png" group-title="Gavang",30/10 23:30 | Al-Gharafa Sports Club vs Qatar Sports Club
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghed3ozr6o.png" group-title="Gavang",31/10 00:00 | Konyaspor vs Galatasaray
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9pxwlm7v.png" group-title="Gavang",31/10 01:00 | Havre Athletic Club vs Paris Saint Germain
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl0d36q1z.png" group-title="Gavang",31/10 02:30 | SV 07 Elversberg vs 1. FSV Mainz 05
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5jk6qdy.png" group-title="Gavang",31/10 03:00 | Sheffield United vs Wrexham
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6xp3r6o.png" group-title="Gavang",31/10 03:00 | Villarreal CF vs RCD Espanyol de Barcelona
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5jk6qdy.png" group-title="Gavang",31/10 03:00 | Sheffield United vs Wrexham
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndx3zm0v.png" group-title="Gavang",31/10 03:05 | LOSC Lille vs RC Lens
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh61kg1qg8.png" group-title="Gavang",31/10 03:15 | Casa Pia AC vs Sporting CP
