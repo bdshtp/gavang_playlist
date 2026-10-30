@@ -1,32 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h62g5omoj.png" group-title="Gavang",30/10 15:30 | Java United F.C. vs Bhayangkara Presisi Indonesia FC
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn8wn2qdy.png" group-title="Gavang",30/10 16:00 | Brisbane Roar vs Auckland FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6g2wlq86.png" group-title="Gavang",30/10 17:00 | CLB Thanh Hoa vs Hong Linh Ha Tinh
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4gydlr8k.png" group-title="Gavang",30/10 18:00 | Bac Ninh vs Hoang Anh Gia Lai
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkdnk2r1g.png" group-title="Gavang",30/10 18:30 | Sadarakpat vs FK Van Charentsavan
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghljy38moe.png" group-title="Gavang",30/10 18:30 | Tanjong Pagar United vs FC Jurong
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg7p9jrep.png" group-title="Gavang",30/10 19:00 | Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx8nkmd7.png" group-title="Gavang",30/10 19:00 | Sisaket United vs Ratchaburi FC
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1nx86q0j.png" group-title="Gavang",30/10 19:15 | Hanoi FC vs Ninh Binh FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6d3vm2w.png" group-title="Gavang",30/10 19:30 | Abha vs Al Ittihad
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hy8e2gq86.png" group-title="Gavang",30/10 20:00 | Real Kashmir FC vs Nagaland
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8pdzwqwz.png" group-title="Gavang",30/10 21:50 | Diraiyah vs Neom SC
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwygw0ryo.png" group-title="Gavang",30/10 22:00 | FC Pyunik vs Urartu
-https://live2.zktsva.app/live/301238.m3u8
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6kp5lq86.png" group-title="Gavang",30/10 22:00 | Asyut Petroleum vs El Gounah
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dozvqwz.png" group-title="Gavang",30/10 22:10 | CSKA 1948 Sofia vs Spartak Varna
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlzldgmoe.png" group-title="Gavang",30/10 23:00 | FC Shakhtar Donetsk vs Obolon Kyiv
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6olnm2w.png" group-title="Gavang",30/10 23:30 | Al-Sadd Sports Club vs Al-Shamal Sports Club
