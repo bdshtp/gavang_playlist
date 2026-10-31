@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjdky3m2w.png" group-title="Gavang",01/11 02:45 | AC Milan vs Inter Milan
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyovz1ryk.png" group-title="Gavang",01/11 03:00 | FC Barcelona vs Deportivo Alavés
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghldzozmoe.png" group-title="Gavang",01/11 03:00 | Aston Villa vs Fulham
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6845lmoj.png" group-title="Gavang",01/11 06:00 | Pachuca vs Tigres UANL
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdg09qo9.png" group-title="Gavang",01/11 08:00 | Rayados de Monterrey vs Club Tijuana
