@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl0d36q1z.png" group-title="Gavang",31/10 02:30 | SV 07 Elversberg vs 1. FSV Mainz 05
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6xp3r6o.png" group-title="Gavang",31/10 03:00 | Villarreal CF vs RCD Espanyol de Barcelona
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5jk6qdy.png" group-title="Gavang",31/10 03:00 | Sheffield United vs Wrexham
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndx3zm0v.png" group-title="Gavang",31/10 03:05 | LOSC Lille vs RC Lens
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh61kg1qg8.png" group-title="Gavang",31/10 03:15 | Casa Pia AC vs Sporting CP
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyxg2kryk.png" group-title="Gavang",31/10 06:00 | Corinthians - SP vs Mirassol - SP
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnd9kdm0v.png" group-title="Gavang",31/10 08:00 | Atletico San Luis vs Atlas
@@ -87,7 +77,7 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgdx97rep.png" group-title="Gavang",01/11 08:07 | Club Deportivo Guadalajara vs Atlante FC
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld0e6moe.png" group-title="Gavang",01/11 10:00 | Club America vs Toluca
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld0e6moe.png" group-title="Gavang",01/11 10:10 | Club America vs Toluca
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6l369moj.png" group-title="Gavang",01/11 11:00 | Melbourne Victory vs Central Coast Mariners
 https://live2.zktsva.app/live/306290.m3u8
