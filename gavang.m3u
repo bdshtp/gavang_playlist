@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyxg2kryk.png" group-title="Gavang",31/10 06:00 | Corinthians - SP vs Mirassol - SP
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnd9kdm0v.png" group-title="Gavang",31/10 08:00 | Atletico San Luis vs Atlas
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwl094ryo.png" group-title="Gavang",31/10 08:00 | FC Juarez vs Queretaro FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6l7zr6o.png" group-title="Gavang",31/10 08:05 | Atletico Bucaramanga vs Deportivo Pasto
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9o4dr1g.png" group-title="Gavang",31/10 10:00 | Puebla vs Pumas U.N.A.M.
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhny77pqvy.png" group-title="Gavang",31/10 12:00 | Kyoto Sanga vs Shimizu S-Pulse
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghge55gq82.png" group-title="Gavang",31/10 12:00 | Okayama vs FC Tokyo
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld2lwmoe.png" group-title="Gavang",31/10 13:00 | Kashima Antlers vs Cerezo Osaka
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn02p6qvy.png" group-title="Gavang",31/10 13:00 | Melbourne City vs Sydney FC
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld2lwmoe.png" group-title="Gavang",31/10 13:00 | Kashima Antlers vs Cerezo Osaka
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghge560q82.png" group-title="Gavang",31/10 14:00 | Kashiwa Reysol vs Urawa Red Diamonds
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkzlk2rz8.png" group-title="Gavang",31/10 15:40 | Macarthur FC vs Western Sydney Wanderers FC
