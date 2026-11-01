@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyovz2ryk.png" group-title="Gavang",01/11 22:15 | Racing Santander vs Real Madrid
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxd453qo9.png" group-title="Gavang",01/11 23:15 | Paris FC vs AS Monaco
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3058q1z.png" group-title="Gavang",01/11 23:30 | Liverpool vs Arsenal
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe62o4r6o.png" group-title="Gavang",01/11 23:30 | Eintracht Frankfurt vs Hamburger SV
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdo19qo9.png" group-title="Gavang",02/11 00:00 | Lecce vs Genoa
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvo1l0md7.png" group-title="Gavang",02/11 00:30 | Elche CF vs Valencia CF
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghed820r6o.png" group-title="Gavang",02/11 01:00 | Viseu vs Rio Ave
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgznw4r51.png" group-title="Gavang",02/11 02:45 | Juventus vs Napoli
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h68y2dmoj.png" group-title="Gavang",02/11 02:45 | Marseille vs Toulouse FC
