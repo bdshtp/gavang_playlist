@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jdj2qg8.png" group-title="Gavang",01/11 17:00 | FC Orenburg vs CSKA Moscow
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgw2zjr51.png" group-title="Gavang",01/11 17:30 | Amedspor vs Eyupspor
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5lx77ql0.png" group-title="Gavang",01/11 18:00 | Cong An Ho Chi Minh City vs SHB Da Nang
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4jo6or8k.png" group-title="Gavang",01/11 18:30 | Como vs Venezia
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw469yryo.png" group-title="Gavang",01/11 19:30 | FC St. Pauli vs 1. FC Nürnberg
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6xp8r6o.png" group-title="Gavang",01/11 20:00 | Getafe vs Sevilla FC
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6185zq86.png" group-title="Gavang",01/11 21:00 | Lazio vs Cagliari
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo4owr6o.png" group-title="Gavang",01/11 21:00 | Frosinone vs Torino
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld3wdmoe.png" group-title="Gavang",01/11 21:00 | RC Strasbourg Alsace vs AJ Auxerre
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg92e1q82.png" group-title="Gavang",01/11 21:30 | 1. FC Union Berlin vs FC Köln
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyovz2ryk.png" group-title="Gavang",01/11 22:15 | Racing Santander vs Real Madrid
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxd453qo9.png" group-title="Gavang",01/11 23:15 | Paris FC vs AS Monaco
@@ -32,13 +12,13 @@ https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvo1l0md7.png" group-title="Gavang",02/11 00:30 | Elche CF vs Valencia CF
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghed820r6o.png" group-title="Gavang",02/11 01:00 | Viseu vs Rio Ave
-https://live2.zktsva.app/live/301263.m3u8
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgznw4r51.png" group-title="Gavang",02/11 02:45 | Juventus vs Napoli
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h68y2dmoj.png" group-title="Gavang",02/11 02:45 | Marseille vs Toulouse FC
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkv1jzrz8.png" group-title="Gavang",02/11 03:00 | Athletic Club vs Real Sociedad
-https://live2.zktsva.app/live/303098.m3u8
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61ldzq86.png" group-title="Gavang",02/11 06:00 | Santos Laguna vs Necaxa
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghew002r6o.png" group-title="Gavang",02/11 07:00 | New England Revolution vs Inter Miami CF
@@ -46,7 +26,7 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j8vor8k.png" group-title="Gavang",02/11 08:00 | Cruz Azul vs Club Leon
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8o556qwz.png" group-title="Gavang",02/11 09:45 | Portland Timbers vs Houston Dynamo
-https://live2.zktsva.app/live/301263.m3u8
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7kg3oq1z.png" group-title="Gavang",02/11 12:00 | Hunters FC vs FC Ulaanbaatar
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv38dkql0.png" group-title="Gavang",02/11 15:00 | Central Stallions vs Deren FC
@@ -57,6 +37,8 @@ https://live2.zktsva.app/live/300523.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj4v7em2w.png" group-title="Gavang",02/11 19:00 | Chonburi FC vs BG Pathum United
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn524yqdy.png" group-title="Gavang",02/11 19:30 | Sportist Svoge vs Ludogorets Razgrad II
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn23w3m0v.png" group-title="Gavang",02/11 19:30 | Al-Jabalain vs Al Bukayriyah
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xkpvmoj.png" group-title="Gavang",02/11 20:45 | Pakhtakor vs Al Nassr
@@ -79,3 +61,63 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh672klqg8.png" group-title="Gavang",02/11 23:00 | Vaasa VPS vs HJK Helsinki
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvyedomd7.png" group-title="Gavang",03/11 00:00 | Genclerbirligi vs Alanyaspor
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld4j3moe.png" group-title="Gavang",03/11 00:30 | Sassuolo vs Fiorentina
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnzvnjm0v.png" group-title="Gavang",03/11 01:00 | GAIS vs AIK
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjddjryo.png" group-title="Gavang",03/11 01:15 | Al-Gharafa Sports Club vs Al Qadsiah
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghen23dr6o.png" group-title="Gavang",03/11 01:15 | Al Ittihad vs Al-Ain FC
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgejeoq82.png" group-title="Gavang",03/11 02:45 | Atalanta vs Parma
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwlv37ryo.png" group-title="Gavang",03/11 02:45 | Lorient vs Stade Brestois 29
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhny619qvy.png" group-title="Gavang",03/11 03:00 | Newcastle United vs Everton
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1oz0eq0j.png" group-title="Gavang",03/11 03:00 | RC Deportivo vs CA Osasuna
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8y30dqwz.png" group-title="Gavang",03/11 03:15 | Benfica vs Alverca
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj2825m2w.png" group-title="Gavang",03/11 05:00 | CA Platense vs CA Central Cordoba SDE
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h652w3q86.png" group-title="Gavang",03/11 07:15 | Atletico Tucuman vs Argentinos Juniors
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy0e0jryk.png" group-title="Gavang",03/11 07:15 | Independiente Rivadavia vs CA Banfield
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz2wjmoe.png" group-title="Gavang",03/11 08:15 | Atletico Bucaramanga vs Atletico Nacional Medellin
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndnx1m0v.png" group-title="Gavang",03/11 11:55 | Kataller Toyama vs Vegalta Sendai
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p9klm7v.png" group-title="Gavang",03/11 12:00 | Ventforet Kofu vs Albirex Niigata
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9k31r1g.png" group-title="Gavang",03/11 12:50 | FC Imabari vs Hokkaido Consadole Sapporo
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5861rep.png" group-title="Gavang",03/11 14:45 | Newcastle Jets vs Shanghai Port
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xk01moj.png" group-title="Gavang",03/11 17:00 | Jeonbuk Hyundai Motors vs Johor Darul Ta'zim FC
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgve8or51.png" group-title="Gavang",03/11 17:00 | Kashiwa Reysol vs Daejeon Hana Citizen
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1w5g8q0j.png" group-title="Gavang",03/11 17:00 | Vissel Kobe vs Ratchaburi FC
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhydy5yryk.png" group-title="Gavang",03/11 19:00 | Villarreal U19 vs Paris Saint Germain U19
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx97g7qo9.png" group-title="Gavang",03/11 19:15 | Port FC vs Beijing Guoan
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4z5w8r8k.png" group-title="Gavang",03/11 19:15 | Cong An Ha Noi FC vs Kyoto Sanga
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh878nnqwz.png" group-title="Gavang",03/11 20:00 | Manchester United U19 vs AS Roma U19
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh52488ql0.png" group-title="Gavang",03/11 20:45 | East Bengal FC vs Al Seeb SC
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1n13zq0j.png" group-title="Gavang",03/11 22:00 | Atletico de Madrid U19 vs Bayern Munchen U19
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvxv34md7.png" group-title="Gavang",03/11 22:00 | Barcelona U19 vs Aston Villa U19
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjdzlryo.png" group-title="Gavang",03/11 23:00 | Al-Hussein SC (Irbid) vs Al Shorta
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl5oknmoe.png" group-title="Gavang",03/11 23:00 | Esteghlal Tehran vs Al-Shamal Sports Club
+https://live2.zktsva.app/live/289650.m3u8
