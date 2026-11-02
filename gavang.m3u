@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61ldzq86.png" group-title="Gavang",02/11 06:00 | Santos Laguna vs Necaxa
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghew002r6o.png" group-title="Gavang",02/11 07:00 | New England Revolution vs Inter Miami CF
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j8vor8k.png" group-title="Gavang",02/11 08:00 | Cruz Azul vs Club Leon
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8o556qwz.png" group-title="Gavang",02/11 09:45 | Portland Timbers vs Houston Dynamo
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8o556qwz.png" group-title="Gavang",02/11 09:50 | Portland Timbers vs Houston Dynamo
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7kg3oq1z.png" group-title="Gavang",02/11 12:00 | Hunters FC vs FC Ulaanbaatar
 https://live2.zktsva.app/live/289650.m3u8
