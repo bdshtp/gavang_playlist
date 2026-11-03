@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndnx1m0v.png" group-title="Gavang",03/11 11:55 | Kataller Toyama vs Vegalta Sendai
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p9klm7v.png" group-title="Gavang",03/11 12:00 | Ventforet Kofu vs Albirex Niigata
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9k31r1g.png" group-title="Gavang",03/11 12:50 | FC Imabari vs Hokkaido Consadole Sapporo
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5861rep.png" group-title="Gavang",03/11 14:45 | Newcastle Jets vs Shanghai Port
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xk01moj.png" group-title="Gavang",03/11 17:00 | Jeonbuk Hyundai Motors vs Johor Darul Ta'zim FC
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgve8or51.png" group-title="Gavang",03/11 17:00 | Kashiwa Reysol vs Daejeon Hana Citizen
@@ -53,8 +45,6 @@ https://live2.zktsva.app/live/300523.m3u8
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg0v6xrep.png" group-title="Gavang",04/11 07:30 | Internacional - RS vs Coritiba SAF - PR
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1o3w2q0j.png" group-title="Gavang",04/11 08:10 | Millonarios vs America de Cali
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl5w7m2w.png" group-title="Gavang",04/11 14:45 | Melbourne Victory vs Persib Bandung
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv24w1md7.png" group-title="Gavang",04/11 17:00 | FC Seoul vs The Cong-Viettel
@@ -77,3 +67,61 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl507m2w.png" group-title="Gavang",04/11 23:00 | Al-Rayyan Sports Club vs Al Nahda SC
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1wdqg8.png" group-title="Gavang",05/11 00:45 | AEK Athens vs Real Madrid
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjly3gm2w.png" group-title="Gavang",05/11 00:45 | Fenerbahce vs Liverpool
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6j7egq86.png" group-title="Gavang",05/11 01:15 | Al-Muharraq vs Al-Jazira(UAE)
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv24z1md7.png" group-title="Gavang",05/11 01:15 | Al Taawoun vs Al-Faisaly Amman
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw6x3q1z.png" group-title="Gavang",05/11 03:00 | Borussia Dortmund vs Real Betis
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx2pxqdy.png" group-title="Gavang",05/11 03:00 | FC Porto vs Napoli
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh52ywlql0.png" group-title="Gavang",05/11 03:00 | RC Lens vs Como
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2yv0md7.png" group-title="Gavang",05/11 03:00 | PSV Eindhoven vs Club Brugge
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghende8r6o.png" group-title="Gavang",05/11 03:00 | RB Leipzig vs Manchester City
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx24jqdy.png" group-title="Gavang",05/11 03:00 | SK Slavia Praha vs Arsenal
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyxgv0ryk.png" group-title="Gavang",05/11 05:30 | Flamengo - RJ vs Grêmio - RS
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6nxkkq86.png" group-title="Gavang",05/11 06:30 | Cucuta Deportivo vs Independiente Santa Fe
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg0v83rep.png" group-title="Gavang",05/11 07:30 | São Paulo - SP vs Corinthians - SP
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1o3w2q0j.png" group-title="Gavang",05/11 08:30 | Millonarios vs America de Cali
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhk0wdxmd7.png" group-title="Gavang",05/11 15:00 | Amtat FC vs Khaan Khuns-Erchim FC
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzgh3yn13q82.png" group-title="Gavang",05/11 15:30 | Sydney Olympic vs Oakleigh Cannons
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7k44eq1z.png" group-title="Gavang",05/11 16:30 | Pakistan vs India
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkjgepr1g.png" group-title="Gavang",05/11 17:00 | Lion City Sailors vs Adelaide United
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4z5nnr8k.png" group-title="Gavang",05/11 17:00 | Machida Zelvia vs Shanghai Shenhua
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg581vrep.png" group-title="Gavang",05/11 17:00 | Kitchee vs Phnom Penh Crown FC
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0x3pr8k.png" group-title="Gavang",05/11 18:30 | Churchill Brothers vs Northeast United FC
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjdvjryo.png" group-title="Gavang",05/11 19:15 | BG Pathum United vs Tai Po
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxlznqdy.png" group-title="Gavang",05/11 19:15 | Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh983k7m7v.png" group-title="Gavang",05/11 19:15 | Kuching City FC vs Gangwon FC
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxedw7qo9.png" group-title="Gavang",05/11 20:25 | Al Kholood vs Al Khaleej
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw7p8zryo.png" group-title="Gavang",05/11 20:30 | Bunyodkor vs Xorazm Urganch
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h54ynprz8.png" group-title="Gavang",05/11 21:00 | Mohun Bagan Super Giant vs Odisha FC
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgke5yq82.png" group-title="Gavang",05/11 22:10 | Abha vs Al Shabab
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd33jpmoj.png" group-title="Gavang",05/11 23:30 | Volga Ulyanovsk vs Chertanovo Moscow
+https://live2.zktsva.app/live/300523.m3u8
