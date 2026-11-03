@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8y30dqwz.png" group-title="Gavang",03/11 03:15 | Benfica vs Alverca
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj2825m2w.png" group-title="Gavang",03/11 05:00 | CA Platense vs CA Central Cordoba SDE
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h652w3q86.png" group-title="Gavang",03/11 07:15 | Atletico Tucuman vs Argentinos Juniors
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhy0e0jryk.png" group-title="Gavang",03/11 07:15 | Independiente Rivadavia vs CA Banfield
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz2wjmoe.png" group-title="Gavang",03/11 08:15 | Atletico Bucaramanga vs Atletico Nacional Medellin
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghndnx1m0v.png" group-title="Gavang",03/11 11:55 | Kataller Toyama vs Vegalta Sendai
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p9klm7v.png" group-title="Gavang",03/11 12:00 | Ventforet Kofu vs Albirex Niigata
@@ -77,8 +67,6 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlwdjjq1z.png" group-title="Gavang",04/11 20:45 | Arkadag FK vs Gol Gohar FC
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8g5kq82.png" group-title="Gavang",04/11 21:00 | RB Leipzig U19 vs Manchester City U19
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph498ddr8k.png" group-title="Gavang",04/11 22:00 | Uniao Leiria U23 vs Estoril U23
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxdleqdy.png" group-title="Gavang",04/11 22:30 | Stade Rennais FC vs Olympiacos Piraeus
