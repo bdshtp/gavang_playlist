@@ -1,30 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv24w1md7.png" group-title="Gavang",04/11 17:00 | FC Seoul vs The Cong-Viettel
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxlp5qdy.png" group-title="Gavang",04/11 17:00 | Pohang Steelers vs Gamba Osaka
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnvn76qvy.png" group-title="Gavang",04/11 18:00 | Fenerbahce U19 vs Liverpool U19
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6j7l2q86.png" group-title="Gavang",04/11 19:15 | Buriram United vs Kashima Antlers
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlwdjjq1z.png" group-title="Gavang",04/11 20:45 | Arkadag FK vs Gol Gohar FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8g5kq82.png" group-title="Gavang",04/11 21:00 | RB Leipzig U19 vs Manchester City U19
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph498ddr8k.png" group-title="Gavang",04/11 22:00 | Uniao Leiria U23 vs Estoril U23
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxdleqdy.png" group-title="Gavang",04/11 22:30 | Stade Rennais FC vs Olympiacos Piraeus
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlwdyjq1z.png" group-title="Gavang",04/11 23:00 | Al Wahda(UAE) vs Al Khaldiya
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl5o7m2w.png" group-title="Gavang",04/11 23:00 | Al Kuwait SC vs Nasaf Qarshi
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl507m2w.png" group-title="Gavang",04/11 23:00 | Al-Rayyan Sports Club vs Al Nahda SC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1wdqg8.png" group-title="Gavang",05/11 00:45 | AEK Athens vs Real Madrid
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjly3gm2w.png" group-title="Gavang",05/11 00:45 | Fenerbahce vs Liverpool
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1wdqg8.png" group-title="Gavang",05/11 00:45 | AEK Athens vs Real Madrid
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6j7egq86.png" group-title="Gavang",05/11 01:15 | Al-Muharraq vs Al-Jazira(UAE)
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv24z1md7.png" group-title="Gavang",05/11 01:15 | Al Taawoun vs Al-Faisaly Amman
@@ -33,8 +11,6 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx2pxqdy.png" group-title="Gavang",05/11 03:00 | FC Porto vs Napoli
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh52ywlql0.png" group-title="Gavang",05/11 03:00 | RC Lens vs Como
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2yv0md7.png" group-title="Gavang",05/11 03:00 | PSV Eindhoven vs Club Brugge
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghende8r6o.png" group-title="Gavang",05/11 03:00 | RB Leipzig vs Manchester City
