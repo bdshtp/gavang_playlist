@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjly3gm2w.png" group-title="Gavang",05/11 00:45 | Fenerbahce vs Liverpool
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1wdqg8.png" group-title="Gavang",05/11 00:45 | AEK Athens vs Real Madrid
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6j7egq86.png" group-title="Gavang",05/11 01:15 | Al-Muharraq vs Al-Jazira(UAE)
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv24z1md7.png" group-title="Gavang",05/11 01:15 | Al Taawoun vs Al-Faisaly Amman
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw6x3q1z.png" group-title="Gavang",05/11 03:00 | Borussia Dortmund vs Real Betis
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx2pxqdy.png" group-title="Gavang",05/11 03:00 | FC Porto vs Napoli
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2yv0md7.png" group-title="Gavang",05/11 03:00 | PSV Eindhoven vs Club Brugge
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghende8r6o.png" group-title="Gavang",05/11 03:00 | RB Leipzig vs Manchester City
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnx24jqdy.png" group-title="Gavang",05/11 03:00 | SK Slavia Praha vs Arsenal
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyxgv0ryk.png" group-title="Gavang",05/11 05:30 | Flamengo - RJ vs Grêmio - RS
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6nxkkq86.png" group-title="Gavang",05/11 06:30 | Cucuta Deportivo vs Independiente Santa Fe
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6nxkkq86.png" group-title="Gavang",05/11 07:00 | Cucuta Deportivo vs Independiente Santa Fe
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg0v83rep.png" group-title="Gavang",05/11 07:30 | São Paulo - SP vs Corinthians - SP
 https://live2.zktsva.app/live/307240.m3u8
