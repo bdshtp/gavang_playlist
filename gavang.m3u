@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgk309r51.png" group-title="Gavang",06/11 22:30 | FC UT Arad vs Petrolul Ploiesti
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh59gk1ql0.png" group-title="Gavang",06/11 23:30 | Lokomotiv Moscow vs Rubin Kazan
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8y6k3qwz.png" group-title="Gavang",07/11 00:00 | Gaziantep Futbol Kulübü vs Kasimpasa
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvog0gmd7.png" group-title="Gavang",07/11 00:30 | Dynamo Dresden vs SpVgg Greuther Fürth
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw46v8ryo.png" group-title="Gavang",07/11 00:30 | Eintracht Braunschweig vs Energie Cottbus
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6nkn0moj.png" group-title="Gavang",07/11 02:30 | Hamburger SV vs Borussia Monchengladbach
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk97wdr1g.png" group-title="Gavang",07/11 02:45 | Venezia vs Udinese
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywj61ryk.png" group-title="Gavang",07/11 02:45 | Toulouse FC vs RC Strasbourg Alsace
