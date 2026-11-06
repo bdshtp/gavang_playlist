@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5lvprep.png" group-title="Gavang",06/11 03:00 | AZ Alkmaar vs Juventus
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheny96r6o.png" group-title="Gavang",06/11 03:00 | Sunderland vs Dinamo Zagreb
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2xe8md7.png" group-title="Gavang",06/11 03:00 | Getafe vs Brighton Hove Albion
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl4pxm2w.png" group-title="Gavang",06/11 03:00 | AS Monaco vs Nordsjaelland
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4zgogr8k.png" group-title="Gavang",06/11 03:00 | Bayer 04 Leverkusen vs Marseille
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv2x5lmd7.png" group-title="Gavang",06/11 03:00 | Benfica vs Lech Poznan
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl56ewmoe.png" group-title="Gavang",06/11 03:00 | RC Celta vs Union Saint-Gilloise
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw8jyq1z.png" group-title="Gavang",06/11 03:00 | Celtic FC vs Besiktas JK
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn3wlxqdy.png" group-title="Gavang",06/11 05:30 | Palmeiras - SP vs Remo - PA
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4lo5yr8k.png" group-title="Gavang",06/11 07:30 | Cruzeiro - MG vs Bahia - BA
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87o9kr1g.png" group-title="Gavang",06/11 08:00 | Cancun FC vs Piratas FC
