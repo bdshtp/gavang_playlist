@@ -1,23 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld4z6moe.png" group-title="Gavang",08/11 00:00 | Parma vs Bologna
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j681r8k.png" group-title="Gavang",08/11 00:30 | Nottingham Forest vs Manchester City
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl025jq1z.png" group-title="Gavang",08/11 00:30 | CA Osasuna vs Athletic Club
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn6k68qvy.png" group-title="Gavang",08/11 00:30 | VfB Stuttgart vs SV Werder Bremen
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkdjozrz8.png" group-title="Gavang",08/11 01:00 | AJ Auxerre vs Paris FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywg8yryk.png" group-title="Gavang",08/11 02:45 | AS Roma vs Sassuolo
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6x93r6o.png" group-title="Gavang",08/11 03:00 | Valencia CF vs Real Madrid
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1jvweq0j.png" group-title="Gavang",08/11 03:05 | Paris Saint Germain vs Troyes
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkyj7prz8.png" group-title="Gavang",08/11 03:30 | Sporting CP vs Moreirense
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgxevyrep.png" group-title="Gavang",08/11 04:00 | Inter Miami CF vs Charlotte FC
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgxevyrep.png" group-title="Gavang",08/11 04:10 | Inter Miami CF vs Charlotte FC
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5dpgzql0.png" group-title="Gavang",08/11 06:00 | Atlas vs Pachuca
 https://live2.zktsva.app/live/307240.m3u8
