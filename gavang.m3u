@@ -1,23 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgw0ddr51.png" group-title="Gavang",09/11 01:00 | Vitoria Guimaraes vs FC Porto
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9291q82.png" group-title="Gavang",09/11 01:30 | TSG Hoffenheim vs Schalke 04
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6838lmoj.png" group-title="Gavang",09/11 02:45 | Fiorentina vs Juventus
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hneyxjqdy.png" group-title="Gavang",09/11 02:45 | RC Lens vs Marseille
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn6dj7qvy.png" group-title="Gavang",09/11 03:00 | Atletico Madrid vs FC Barcelona
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgpon9rep.png" group-title="Gavang",09/11 03:30 | CF Estrela Amadora SAD vs Benfica
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgd4ddq82.png" group-title="Gavang",09/11 05:30 | CA Central Cordoba SDE vs Club Atlético Lanús
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8knv6qwz.png" group-title="Gavang",09/11 06:10 | Deportes Tolima vs Millonarios
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyo56zryk.png" group-title="Gavang",09/11 08:15 | Alianza Fútbol Club vs Llaneros FC
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheowjwr6o.png" group-title="Gavang",09/11 09:00 | Club Leon vs Club Deportivo Guadalajara
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheowjwr6o.png" group-title="Gavang",09/11 09:10 | Club Leon vs Club Deportivo Guadalajara
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phxkwe0m2w.png" group-title="Gavang",09/11 15:00 | Ulaangom City vs Khovd Broncos
 https://live2.zktsva.app/live/301263.m3u8
