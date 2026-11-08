@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgxevyrep.png" group-title="Gavang",08/11 04:10 | Inter Miami CF vs Charlotte FC
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5dpgzql0.png" group-title="Gavang",08/11 06:00 | Atlas vs Pachuca
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6ln2r6o.png" group-title="Gavang",08/11 06:10 | Atletico Nacional Medellin vs Deportivo Pereira
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehg3xn2r51.png" group-title="Gavang",08/11 07:00 | FC Dallas vs Colorado Rapids
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehg3xn2r51.png" group-title="Gavang",08/11 07:10 | FC Dallas vs Colorado Rapids
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvdnz4md7.png" group-title="Gavang",08/11 08:00 | Toluca vs Rayados de Monterrey
 https://live2.zktsva.app/live/796315.m3u8
