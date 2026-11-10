@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phxgo1zm2w.png" group-title="Gavang",11/11 00:45 | BK Hacken Women vs Chelsea FC Women
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh9x428qwz.png" group-title="Gavang",11/11 00:45 | Real Madrid Women vs Paris FC Women
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5352qdy.png" group-title="Gavang",11/11 02:00 | Huddersfield Town vs Liverpool U21
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45vl4qvy.png" group-title="Gavang",11/11 03:00 | UE Tavernes vs Valencia CF
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45eo4qvy.png" group-title="Gavang",11/11 03:00 | AS Roma Women vs Servette Women
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkhyvon2qg8.png" group-title="Gavang",11/11 03:00 | Inter Milan Women vs Manchester City Women
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzgh3y7ldq82.png" group-title="Gavang",11/11 03:00 | Paris Saint Germain Women vs Bayern Munchen Women
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzgh3j3xgq82.png" group-title="Gavang",11/11 07:30 | Sint Maarten vs Anguilla
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5k2l4ryo.png" group-title="Gavang",11/11 08:30 | Deportiva Once Caldas vs Atletico Nacional Medellin
@@ -35,8 +21,6 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh427d8qvy.png" group-title="Gavang",11/11 19:00 | Slovenia U19 vs England U19
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5k7exryo.png" group-title="Gavang",11/11 20:00 | Germany U19 vs Sweden U19
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87yzor1g.png" group-title="Gavang",11/11 20:00 | Czechia Republic U19 vs Netherlands U19
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjn223r51.png" group-title="Gavang",11/11 21:00 | Bangladesh vs Sri Lanka
@@ -46,4 +30,6 @@ https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh94219moe.png" group-title="Gavang",11/11 22:00 | Spain U19 vs Iceland U19
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh94308moe.png" group-title="Gavang",11/11 23:00 | Czarni Sosnowiec Women vs SK Brann Women
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5k7exryo.png" group-title="Gavang",12/11 20:00 | Germany U19 vs Sweden U19
 https://live2.zktsva.app/live/741294.m3u8
