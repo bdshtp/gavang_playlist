@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h5lj07rz8.png" group-title="Gavang",12/11 00:30 | Eintracht Frankfurt Women vs PSV Eindhoven Women
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghgok3jm0v.png" group-title="Gavang",12/11 00:45 | Oud Heverlee Leuven Women vs HB Koge 's Women
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6nonlq86.png" group-title="Gavang",12/11 02:00 | Barnsley vs Oldham Athletic
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hndnjdqdy.png" group-title="Gavang",12/11 02:00 | Sheffield Wednesday vs Accrington Stanley
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5893yryo.png" group-title="Gavang",12/11 03:00 | Juventus Women vs OL Lyonnes Women
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz2d0q86.png" group-title="Gavang",12/11 13:00 | New Zealand vs India
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghg401em0v.png" group-title="Gavang",12/11 15:00 | Thailand U23 vs Qatar U23
