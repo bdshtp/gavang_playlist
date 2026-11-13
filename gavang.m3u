@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0yvyr8k.png" group-title="Gavang",13/11 19:00 | Singapore vs Paraguay
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv0dwqvy.png" group-title="Gavang",13/11 20:00 | Mozambique vs Ethiopia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhkpvzjr1g.png" group-title="Gavang",13/11 20:00 | Comoros vs Republic of the Congo
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl6joemoe.png" group-title="Gavang",13/11 20:00 | Zambia vs Burundi
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv345zql0.png" group-title="Gavang",13/11 21:15 | United Arab Emirates vs Honduras
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hy751zq0j.png" group-title="Gavang",13/11 21:30 | Saudi Arabia vs South Korea
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h549x0rz8.png" group-title="Gavang",13/11 21:45 | Qatar vs Australia
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5ko34ryo.png" group-title="Gavang",13/11 22:00 | Iraq vs Lebanon
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnl212m0v.png" group-title="Gavang",13/11 23:00 | Nigeria vs Tanzania
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglk8zrep.png" group-title="Gavang",13/11 23:00 | South Africa vs Kenya
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyd42xryk.png" group-title="Gavang",13/11 23:00 | Tunisia vs Libya
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd8l7qdy.png" group-title="Gavang",13/11 23:00 | Cabo Verde vs Liberia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh878dkr1g.png" group-title="Gavang",13/11 23:00 | Turkiye U21 vs Czechia Republic U21
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghg4gd1m0v.png" group-title="Gavang",13/11 23:30 | Kuwait vs Syria
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5y3yryo.png" group-title="Gavang",14/11 00:00 | Moldova vs Kazakhstan
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh87p15qwz.png" group-title="Gavang",14/11 02:00 | Mali vs Rwanda
