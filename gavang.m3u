@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9y5vmoe.png" group-title="Gavang",15/11 00:00 | Norway vs Wales
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kxz3r8k.png" group-title="Gavang",15/11 00:00 | Georgia vs Hungary
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph46y86r8k.png" group-title="Gavang",15/11 00:30 | RCD Mallorca vs Cordoba
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1ox4nq0j.png" group-title="Gavang",15/11 00:30 | Almeria vs Andorra CF
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj46pxm2w.png" group-title="Gavang",15/11 02:00 | Angola vs South Sudan
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8k19q82.png" group-title="Gavang",15/11 02:00 | Algeria vs Togo
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6ypj8q86.png" group-title="Gavang",15/11 02:45 | Portugal vs Denmark
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk5yexrz8.png" group-title="Gavang",15/11 02:45 | Northern Ireland vs Ukraine
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgjwv0r51.png" group-title="Gavang",15/11 02:45 | Sweden vs Bosnia and Herzegovina
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl76wnq1z.png" group-title="Gavang",15/11 02:45 | Romania vs Poland
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1ylw5q0j.png" group-title="Gavang",15/11 02:45 | Austria vs Ireland
-https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2v059rep.png" group-title="Gavang",15/11 04:30 | Haiti vs USA
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4jyg1r8k.png" group-title="Gavang",15/11 06:00 | Queretaro FC vs Rayados de Monterrey
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn3wj7qdy.png" group-title="Gavang",15/11 06:30 | Chapecoense - SC vs Vasco da Gama Saf - RJ
