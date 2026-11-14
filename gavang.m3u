@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5y3yryo.png" group-title="Gavang",14/11 00:00 | Moldova vs Kazakhstan
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh87p15qwz.png" group-title="Gavang",14/11 02:00 | Mali vs Rwanda
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1ne3ryo.png" group-title="Gavang",14/11 02:00 | Egypt vs Malawi
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89y28qwz.png" group-title="Gavang",14/11 02:45 | Netherlands vs Greece
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn4go4qvy.png" group-title="Gavang",14/11 02:45 | Serbia vs Germany
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6y1n2qg8.png" group-title="Gavang",14/11 02:45 | Scotland vs North Macedonia
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg3vldq82.png" group-title="Gavang",14/11 02:45 | Slovenia vs Switzerland
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngy3jm0v.png" group-title="Gavang",14/11 02:45 | Slovakia vs Faroe Islands
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8d6vr1g.png" group-title="Gavang",14/11 02:45 | Luxembourg vs Estonia
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dg22moj.png" group-title="Gavang",14/11 02:45 | Bulgaria vs Iceland
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2p75rep.png" group-title="Gavang",14/11 02:45 | Andorra vs Gibraltar
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8zpwrz8.png" group-title="Gavang",14/11 03:00 | Morocco vs Niger
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7h4wln6qdy.png" group-title="Gavang",14/11 06:00 | Argentina vs Uruguay
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v4j1q1z.png" group-title="Gavang",14/11 07:00 | Colombia vs Chile
