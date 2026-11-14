@@ -1,32 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphkooe4r8k.png" group-title="Gavang",14/11 13:00 | Bahrain vs Yemen
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8o065qo9.png" group-title="Gavang",14/11 14:30 | Vietnam U19 vs South Korea U19
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87gz8r1g.png" group-title="Gavang",14/11 15:00 | Thailand U23 vs Singapore U23
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58jelryo.png" group-title="Gavang",14/11 15:30 | Bayswater City vs Sydney Olympic
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0xg5ql0.png" group-title="Gavang",14/11 17:15 | Japan vs Brazil
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh94ep5moe.png" group-title="Gavang",14/11 18:35 | China U19 vs Tajikistan U19
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghgo82em0v.png" group-title="Gavang",14/11 19:00 | China vs Malaysia
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd3k9omoj.png" group-title="Gavang",14/11 19:00 | Vietnam U23 vs Qatar U23
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghgo82em0v.png" group-title="Gavang",14/11 19:00 | China vs Malaysia
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hy80zwq86.png" group-title="Gavang",14/11 19:30 | Thailand vs Brunei Darussalam
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd395ymoj.png" group-title="Gavang",14/11 19:50 | Al Dhafra FC vs Ajman
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh59xp2ql0.png" group-title="Gavang",14/11 20:00 | Real Valladolid CF vs Castellon
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjn8jvr51.png" group-title="Gavang",14/11 20:00 | Palestine vs IR Iran
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9nowpm7v.png" group-title="Gavang",14/11 21:00 | Kosovo vs Israel
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjn90dr51.png" group-title="Gavang",14/11 21:30 | Bangladesh vs Pakistan
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjn8jvr51.png" group-title="Gavang",14/11 22:00 | Palestine vs IR Iran
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgk23pr51.png" group-title="Gavang",14/11 22:15 | Real Sociedad B vs Sporting Gijon
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2v193rep.png" group-title="Gavang",14/11 22:30 | Al-Wasl SC vs Al-Nasr Dubai
@@ -65,7 +57,7 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hy8ojvq86.png" group-title="Gavang",15/11 08:00 | Jamaica vs Mexico
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hyex2yq0j.png" group-title="Gavang",15/11 10:00 | New Zealand vs India
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hyex2yq0j.png" group-title="Gavang",15/11 10:10 | New Zealand vs India
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h686ywmoj.png" group-title="Gavang",15/11 11:00 | Hokkaido Consadole Sapporo vs Sagan Tosu
 https://live2.zktsva.app/live/303098.m3u8
@@ -107,5 +99,65 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9wyn5m7v.png" group-title="Gavang",15/11 23:30 | Arsenal Women vs London City Lionesses Women
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9no8pm7v.png" group-title="Gavang",16/11 00:00 | Finland vs San Marino
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngy8jm0v.png" group-title="Gavang",16/11 00:00 | Belarus vs Albania
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg46x2rep.png" group-title="Gavang",16/11 00:30 | Eibar vs Cadiz CF
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxp2g1qo9.png" group-title="Gavang",16/11 00:30 | Eldense vs Sabadell
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6gjg4moj.png" group-title="Gavang",16/11 01:00 | Leixoes vs GD Chaves
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzgh3j5dlq82.png" group-title="Gavang",16/11 02:30 | Danubio FC vs Liverpool URU
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh89yv8qwz.png" group-title="Gavang",16/11 02:45 | France vs Turkiye
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn4gl4qvy.png" group-title="Gavang",16/11 02:45 | Belgium vs Italy
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg3vndq82.png" group-title="Gavang",16/11 02:45 | Spain vs England
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphkolzpr8k.png" group-title="Gavang",16/11 06:00 | Panama vs Curacao
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnhn64d8m7v.png" group-title="Gavang",16/11 06:00 | Defensor Sporting Montevideo vs CA Penarol
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7h4wg14qdy.png" group-title="Gavang",16/11 07:00 | New Mexico United vs Sacramento Republic FC
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7h4wnngqdy.png" group-title="Gavang",16/11 08:00 | Monterrey Women vs Pachuca Women
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh9l88yqwz.png" group-title="Gavang",16/11 10:10 | Toluca Women vs Club America Women
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5k0g4ql0.png" group-title="Gavang",16/11 19:00 | Bor 1919 vs Semendrija 1924
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhykp93ryk.png" group-title="Gavang",16/11 19:00 | FK Graficar Beograd vs FK Vozdovac Beograd
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hdvwx1moj.png" group-title="Gavang",16/11 20:00 | Algeria U17 vs Egypt U17
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxlenoqo9.png" group-title="Gavang",16/11 20:00 | Namibia vs Cameroon
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4g12er8k.png" group-title="Gavang",16/11 20:00 | Sudan vs Senegal
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd807qdy.png" group-title="Gavang",16/11 20:00 | Zimbabwe vs Equatorial Guinea
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2z651rep.png" group-title="Gavang",16/11 20:00 | Tunisia U17 vs Morocco U17
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6xd6nmoj.png" group-title="Gavang",16/11 21:00 | Italy U20 vs Switzerland U20
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx98xeqo9.png" group-title="Gavang",16/11 21:00 | Czechia Republic U20 vs Germany U20
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw5yjyryo.png" group-title="Gavang",16/11 22:00 | Faroe Islands vs Moldova
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8djvr1g.png" group-title="Gavang",16/11 22:00 | Kazakhstan vs Slovakia
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6n07yqg8.png" group-title="Gavang",16/11 22:00 | Felgueiras U23 vs Leixoes U23
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey19er6o.png" group-title="Gavang",16/11 22:00 | Somalia vs Ghana
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg52gprep.png" group-title="Gavang",16/11 23:00 | Portugal U20 vs England U20
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8k29q82.png" group-title="Gavang",16/11 23:00 | Eritrea vs Guinea
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglknzrep.png" group-title="Gavang",16/11 23:00 | Central African Republic vs Benin
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2vjv9rep.png" group-title="Gavang",17/11 19:00 | Kyrgyzstan vs Vietnam
 https://live2.zktsva.app/live/294335.m3u8
