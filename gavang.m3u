@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7h4wln6qdy.png" group-title="Gavang",14/11 06:00 | Argentina vs Uruguay
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v4j1q1z.png" group-title="Gavang",14/11 07:00 | Colombia vs Chile
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghk42ewr6o.png" group-title="Gavang",14/11 07:00 | Ecuador vs Costa Rica
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phxk5j3m2w.png" group-title="Gavang",14/11 08:00 | Peru vs Bolivia
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh94p53moe.png" group-title="Gavang",14/11 09:00 | Guatemala vs Canada
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphkooe4r8k.png" group-title="Gavang",14/11 13:00 | Bahrain vs Yemen
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8o065qo9.png" group-title="Gavang",14/11 14:30 | Vietnam U19 vs South Korea U19
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87gz8r1g.png" group-title="Gavang",14/11 15:00 | Thailand U23 vs Singapore U23
@@ -18,7 +10,7 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0xg5ql0.png" group-title="Gavang",14/11 17:15 | Japan vs Brazil
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh94ep5moe.png" group-title="Gavang",14/11 18:35 | China U19 vs Tajikistan U19
-https://live2.zktsva.app/live/289650.m3u8
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghgo82em0v.png" group-title="Gavang",14/11 19:00 | China vs Malaysia
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd3k9omoj.png" group-title="Gavang",14/11 19:00 | Vietnam U23 vs Qatar U23
