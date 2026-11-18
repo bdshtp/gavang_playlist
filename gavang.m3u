@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hk8z7wrz8.png" group-title="Gavang",18/11 02:00 | Liberia vs Cabo Verde
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1nd3ryo.png" group-title="Gavang",18/11 02:00 | Botswana vs Uganda
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1np9xq0j.png" group-title="Gavang",18/11 02:00 | Republic of the Congo vs Comoros
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl768nq1z.png" group-title="Gavang",18/11 02:45 | Denmark vs Norway
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5vyl1ql0.png" group-title="Gavang",18/11 02:45 | Wales vs Portugal
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1yln5q0j.png" group-title="Gavang",18/11 02:45 | Ukraine vs Georgia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvkyxgmd7.png" group-title="Gavang",18/11 02:45 | Hungary vs Northern Ireland
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyl8deryk.png" group-title="Gavang",18/11 02:45 | Israel vs Austria
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn42dpqdy.png" group-title="Gavang",18/11 02:45 | Ireland vs Kosovo
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjxy4zm2w.png" group-title="Gavang",18/11 02:45 | Poland vs Sweden
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj465xm2w.png" group-title="Gavang",18/11 03:00 | Niger vs Morocco
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phxg80ym2w.png" group-title="Gavang",18/11 06:00 | Chile vs Colombia
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hy87yzq86.png" group-title="Gavang",18/11 06:00 | Argentina vs Costa Rica
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphko5kor8k.png" group-title="Gavang",18/11 06:30 | Ecuador vs Bolivia
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphko223r8k.png" group-title="Gavang",18/11 06:30 | Uruguay vs Dominican Republic
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjn8vdr51.png" group-title="Gavang",18/11 07:00 | USA vs Haiti
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7kew4q1z.png" group-title="Gavang",18/11 09:30 | Mexico vs Jamaica
