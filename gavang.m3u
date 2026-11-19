@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1g7zyq0j.png" group-title="Gavang",19/11 05:30 | Coritiba SAF - PR vs Santos FC - SP
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnz461m0v.png" group-title="Gavang",19/11 06:00 | Remo - PA vs Chapecoense - SC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk27g3r1g.png" group-title="Gavang",19/11 06:30 | Cruzeiro - MG vs Palmeiras - SP
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyxg7kryk.png" group-title="Gavang",19/11 07:30 | Grêmio - RS vs Bahia - BA
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx6on6qo9.png" group-title="Gavang",19/11 07:30 | Corinthians - SP vs Botafogo - RJ
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0248ql0.png" group-title="Gavang",19/11 15:30 | Preston Lions vs South Hobart
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4hyew50q0j.png" group-title="Gavang",19/11 15:30 | Queensland Lions SC vs South Coast Wolves
