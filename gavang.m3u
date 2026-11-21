@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgepn4q82.png" group-title="Gavang",21/11 23:15 | OGC Nice vs Paris Saint Germain
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhny2ynqvy.png" group-title="Gavang",22/11 00:00 | Parma vs AS Roma
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgd4v1rep.png" group-title="Gavang",22/11 00:30 | Newcastle United vs Arsenal
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6n94vmoj.png" group-title="Gavang",22/11 00:30 | Sevilla FC vs Real Betis
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phje5y5m2w.png" group-title="Gavang",22/11 00:30 | Schalke 04 vs VfB Stuttgart
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgd83nrep.png" group-title="Gavang",22/11 00:45 | Feyenoord vs Excelsior SBV
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8dlydqwz.png" group-title="Gavang",22/11 02:45 | Napoli vs Torino
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo8n8r6o.png" group-title="Gavang",22/11 02:45 | RC Lens vs Toulouse FC
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjdwl9m2w.png" group-title="Gavang",22/11 02:45 | LOSC Lille vs Lyon
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6zkewqg8.png" group-title="Gavang",22/11 02:45 | AS Monaco vs AJ Auxerre
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw4exjryo.png" group-title="Gavang",22/11 03:00 | Real Madrid vs RC Celta
-https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z0dyqg8.png" group-title="Gavang",22/11 06:00 | Pachuca vs Toluca
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgewzoq82.png" group-title="Gavang",22/11 06:00 | Santos Laguna vs Club Leon
