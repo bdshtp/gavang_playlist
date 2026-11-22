@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9plzdm7v.png" group-title="Gavang",22/11 08:00 | Pumas U.N.A.M. vs Rayados de Monterrey
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1p716q0j.png" group-title="Gavang",22/11 09:00 | Wellington Phoenix vs Macarthur FC
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnd9vdm0v.png" group-title="Gavang",22/11 10:00 | Tigres UANL vs Club America
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzgh3j2zxq82.png" group-title="Gavang",22/11 12:00 | Gimcheon Sangmu Football Club vs Jeju SK FC
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnhn63zem7v.png" group-title="Gavang",22/11 12:00 | Gwangju Football Club vs Bucheon FC 1995
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg7pyjrep.png" group-title="Gavang",22/11 15:30 | Isenmulang Kalteng vs Borneo FC Samarinda
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwyx40ryo.png" group-title="Gavang",22/11 17:30 | Erzurumspor FK vs Goztepe
@@ -19,6 +9,8 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh679l4qg8.png" group-title="Gavang",22/11 18:00 | SHB Da Nang vs Ninh Binh FC
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgzeljr51.png" group-title="Gavang",22/11 18:15 | FC Twente Enschede vs Willem II
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5d3yzql0.png" group-title="Gavang",22/11 18:30 | Juventus vs Venezia
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8wk1kqwz.png" group-title="Gavang",22/11 19:30 | Denmark U17 vs Australia U17
