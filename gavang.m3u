@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwl0z4ryo.png" group-title="Gavang",23/11 06:07 | Club Deportivo Guadalajara vs Cruz Azul
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnhn69l0m7v.png" group-title="Gavang",23/11 06:30 | Chicago Fire vs Charlotte FC
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9o3dr1g.png" group-title="Gavang",23/11 08:00 | Queretaro FC vs Necaxa
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2v7v5rep.png" group-title="Gavang",23/11 08:30 | Vancouver Whitecaps vs Real Salt Lake
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9vpeem7v.png" group-title="Gavang",23/11 16:00 | Yangon City vs Hantharwady United
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnld10m0v.png" group-title="Gavang",23/11 16:30 | Chinland FC vs Ayeyawady united
