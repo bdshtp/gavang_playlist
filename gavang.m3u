@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8zljlqwz.png" group-title="Gavang",27/11 06:00 | São Paulo - SP vs Remo - PA
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghg4l41m0v.png" group-title="Gavang",27/11 08:00 | Pachuca vs Club Deportivo Guadalajara
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5k1kdryo.png" group-title="Gavang",27/11 10:10 | Club Leon vs Cruz Azul
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv390qvy.png" group-title="Gavang",27/11 15:30 | Huda Hue vs Dong Tam Long An
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghk4y8yr6o.png" group-title="Gavang",27/11 15:30 | Broadmeadow Magic vs Queensland Lions SC
@@ -37,6 +31,8 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllh45ge6qvy.png" group-title="Gavang",27/11 21:00 | Inter Kashi vs Churchill Brothers
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghljd2kmoe.png" group-title="Gavang",27/11 21:20 | Al Qadsiah vs Al Fayha
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkgv77rz8.png" group-title="Gavang",27/11 22:00 | Algeria U17 vs Dominican Republic U17
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl904xq1z.png" group-title="Gavang",27/11 22:00 | Montenegro U17 vs Chile U17
