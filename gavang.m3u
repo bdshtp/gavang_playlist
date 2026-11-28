@@ -1,27 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgkdw1rep.png" group-title="Gavang",28/11 00:30 | Al Ittihad vs Neom SC
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgkd40r51.png" group-title="Gavang",28/11 00:30 | VfL Bochum 1848 vs SV Darmstadt 98
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnj6vlm0v.png" group-title="Gavang",28/11 00:30 | 1. FC Heidenheim 1846 vs 1. FC Nürnberg
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnelz8qdy.png" group-title="Gavang",28/11 02:00 | Groningen vs Willem II
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1o5pkq0j.png" group-title="Gavang",28/11 02:30 | SV Werder Bremen vs Borussia Monchengladbach
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgejnkq82.png" group-title="Gavang",28/11 02:45 | Venezia vs Bologna
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgdo5erep.png" group-title="Gavang",28/11 02:45 | Stade Brestois 29 vs Paris FC
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgd4y0rep.png" group-title="Gavang",28/11 03:00 | Nottingham Forest vs Chelsea
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jx0jqg8.png" group-title="Gavang",28/11 03:00 | Levante vs Racing Santander
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn3woeqdy.png" group-title="Gavang",28/11 06:00 | Fluminense - RJ vs Cruzeiro - MG
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh5k320ryo.png" group-title="Gavang",28/11 06:35 | Deportivo Cali vs Atletico Bucaramanga
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd364xmoj.png" group-title="Gavang",28/11 08:00 | Columbus Crew vs Inter Miami CF
+#EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1hd364xmoj.png" group-title="Gavang",28/11 08:15 | Columbus Crew vs Inter Miami CF
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87622r1g.png" group-title="Gavang",28/11 08:40 | Millonarios vs America de Cali
 https://live2.zktsva.app/live/306290.m3u8
